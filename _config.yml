@@ -6,8 +6,8 @@ keywords: "workshops, websites, gh-pages"
 
 # author settings for cc-by
 author: WestGrid
-github_username: evanwill
-twitter_username: EvanPeterWill
+github_username: razoumov
+twitter_username: 
 pub_year: 2018
 
 # add the full url for the github repository
@@ -26,5 +26,3 @@ markdown: kramdown
 # Notes: 
 # - fig include, {% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
 # - pages with "nav: true" in front matter will be in header nav
-
-theme: jekyll-theme-minimal
