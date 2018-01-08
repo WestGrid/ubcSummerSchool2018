@@ -26,3 +26,5 @@ markdown: kramdown
 # Notes: 
 # - fig include, {% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
 # - pages with "nav: true" in front matter will be in header nav
+
+theme: jekyll-theme-minimal
