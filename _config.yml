@@ -2,16 +2,16 @@
 # based on minima theme https://github.com/jekyll/minima
 
 # Site settings
-title: workshop-template
+title: WG-school-at-UBC
 description: > 
   Create a workshop website quick and easy! 
 keywords: "workshops, websites, gh-pages"
 
 # author settings for cc-by
-author: evan will
+author: WestGrid
 github_username: evanwill
 twitter_username: EvanPeterWill
-pub_year: 2017
+pub_year: 2018
 
 # add the full url for the github repository
 repo: "https://github.com/evanwill/workshop-template"

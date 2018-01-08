@@ -2,17 +2,13 @@
 layout: default
 ---
 
-{% include figure.html file="College_of_Education_University_of_Idaho_Workshop_scene_2273.jpg" alt="intro image here" width="75%" %}
+{% include figure.html file="decomposition.png" alt="intro image here" width="85%" %}
 
-# Workshop Template!
+# Summer school
 
-> hosted by [University of Idaho Library](http://www.lib.uidaho.edu/) {{ site.pub_year }}
+> organized by WestGrid and UBC
 
-Workshop abstract here.
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+This event is brought to you by WestGrid (https://www.westgrid.ca) and the UBC ARC Department (https://arc.ubc.ca)
 
 <div class="toc" markdown="1">
 ## Contents:
