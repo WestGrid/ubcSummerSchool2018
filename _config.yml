@@ -1,6 +1,3 @@
-# Jekyll workshop-template https://github.com/evanwill/workshop-template
-# based on minima theme https://github.com/jekyll/minima
-
 # Site settings
 title: WG-school-at-UBC
 description: > 
@@ -14,11 +11,11 @@ twitter_username: EvanPeterWill
 pub_year: 2018
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template"
+repo: "https://github.com/razoumov/testSchool.git"
 
 # add the full url for the repository's gh-pages
 # hint: it's in the form https://username.github.io/repo-name
-url: "https://evanwill.github.io/workshop-template" 
+url: "https://razoumov.github.io/testSchool"
 
 # add google analytics if desired (and uncomment in _includes/head.html)
 google_analytics: 
