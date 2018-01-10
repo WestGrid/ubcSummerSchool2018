@@ -2,7 +2,7 @@
 title: WG-school-at-UBC
 description: > 
   Create a workshop website quick and easy! 
-keywords: "workshops, websites, gh-pages"
+keywords: "hpc, westgrid, summer school"
 
 # author settings for cc-by
 author: WestGrid
@@ -11,11 +11,11 @@ twitter_username:
 pub_year: 2018
 
 # add the full url for the github repository
-repo: "https://github.com/razoumov/testSchool.git"
+repo: "https://github.com/WestGrid/ubcSummerSchool2018.git"
 
 # add the full url for the repository's gh-pages
 # hint: it's in the form https://username.github.io/repo-name
-url: "https://razoumov.github.io/testSchool"
+url: "https://westgrid.github.io/ubcSummerSchool2018"
 
 # add google analytics if desired (and uncomment in _includes/head.html)
 google_analytics: 
