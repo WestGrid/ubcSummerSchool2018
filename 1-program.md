@@ -11,21 +11,22 @@ Alex Razoumov
 - *Chapel* (full-day)
 - *Scientific visualization with ParaView* (full-day, could shorten)
 
-Wolfgang Richter (to be confirmed)
+Wolfgang Richter (tentative), or Ata Roudgar?
 - a database workshop
+  - Feb-09: aiming to have the latest MySQL and Postgres service on Cedar by the end of February
 
-Posssible other topics
+Other possible topics
 - something on DH on CC hardware
   - tap Even Thornberry, the new GIS librarian at UBC
 - genomics on CC hardware
   - GenAP portal? (better fit for CC audience?)
   - GSC?
   - using Galaxy on Cedar?
-- HPC Python
+- HPC Python on CC hardware
+- Jupyter notebooks (on CC instances) and scientific computing in Python
 - other high-level programming languages (MATLAB, Julia)
 - hybrid programming with MPI+OpenMP
-- GPU programming with CUDA and OpenACC
-- Jupyter notebooks and scientific computing in Python
+- GPU programming with CUDA and/or OpenACC
 - CC cloud
 - Hadoop, Spark, data science
 - OpenMP, MPI (probably not since we'll have Chapel)
@@ -38,7 +39,7 @@ Here is what we would like to do differently this year:
 
 &nbsp;
 
-# Last-year's program
+# Last year's program
 
 | date and time | lecture theatre | smaller classroom |
 | ------------- | --------------- | ----------------- |
