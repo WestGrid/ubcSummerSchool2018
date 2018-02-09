@@ -11,6 +11,9 @@ Alex Razoumov
 - *Chapel* (full-day)
 - *Scientific visualization with ParaView* (full-day, could shorten)
 
+Wolfgang Richter (to be confirmed)
+- a database workshop
+
 Posssible other topics
 - something on DH on CC hardware
   - tap Even Thornberry, the new GIS librarian at UBC
