@@ -4,7 +4,7 @@ title: Materials
 nav: true
 ---
 
-# Slides and other presentation materials
+# Last year's slides and other presentation materials
 
 - *Introduction to HPC* by Alex Razoumov: [ZIP file with everything inside](http://bit.ly/introhpc)
 - *Bioinformatics session*: Eric Chuah's [slides](http://bit.ly/2tS1Mta), Kane Tse's
