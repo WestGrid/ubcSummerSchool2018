@@ -6,7 +6,7 @@ layout: default
 
 # Research computing summer school
 
-> organized by WestGrid and UBC
+> Monday June 11th to Thursday June 14th, 2018
 
 This event is brought to you by [WestGrid](https://www.westgrid.ca) and the
 [UBC ARC Department](https://arc.ubc.ca). The main focus of this school is training researchers to use
