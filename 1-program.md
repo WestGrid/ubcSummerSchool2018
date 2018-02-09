@@ -4,7 +4,32 @@ title: Program
 nav: true
 ---
 
-# Program
+# 2018 notes
+
+Alex Razoumov
+- *Introduction to HPC* (full-day, could shorten)
+- *Chapel* (full-day)
+- *Scientific visualization with ParaView* (full-day, could shorten)
+
+Posssible other topics
+- something on DH on CC hardware
+  - tap Even Thornberry, the new GIS librarian at UBC
+- genomics on CC hardware
+  - GenAP portal? (better fit for CC audience?)
+  - GSC?
+  - using Galaxy on Cedar?
+- HPC Python
+- other high-level programming languages (MATLAB, Julia)
+- hybrid programming with MPI+OpenMP
+- GPU programming with CUDA and OpenACC
+- Jupyter notebooks and scientific computing in Python
+- CC cloud
+- Hadoop, Spark, data science
+- OpenMP, MPI (probably not since we'll have Chapel)
+
+&nbsp;
+
+# Last-year's program
 
 | date and time | lecture theatre | smaller classroom |
 | ------------- | --------------- | ----------------- |
