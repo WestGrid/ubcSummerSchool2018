@@ -6,14 +6,20 @@ nav: true
 
 # 2018 notes
 
+face-to-face in late February or early March
+
 Alex Razoumov
 - *Introduction to HPC* (full-day, could shorten)
 - *Chapel* (full-day)
 - *Scientific visualization with ParaView* (full-day, could shorten)
 
-Wolfgang Richter (tentative), or Ata Roudgar?
+Wolfgang Richter (tentative), or Ata Roudgar (more experienced with installation than using SQL)
 - a database workshop
   - Feb-09: aiming to have the latest MySQL and Postgres service on Cedar by the end of February
+
+bioinformatics
+- Jamie will organize a more hands-on bioinformatics session at UBC, has some leads on more
+  workshop-style sessions, will start reaching out (Feb-14)
 
 Other possible topics
 - something on DH on CC hardware
