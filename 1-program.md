@@ -4,7 +4,7 @@ title: Program
 nav: true
 ---
 
-# 2018 notes (this site is http://bit.ly/ubcwg18)
+# 2018 notes
 
 - Monday June-11 to Thursday June-14
 - website http://bit.ly/ubcwg18
