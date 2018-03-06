@@ -4,13 +4,21 @@ title: Program
 nav: true
 ---
 
-# 2018 notes
+# 2018 notes (this site is http://bit.ly/ubcwg18)
 
 - Monday June-11 to Thursday June-14
 - website http://bit.ly/ubcwg18
 - repo https://github.com/WestGrid/ubcSummerSchool2018.git
 
-# face-to-face March-06
+## What we would like to do differently this year
+
+1. have as much participation from analysts and the UBC ARC staff (teaching the courses)
+1. have more stringent rules for faculty-delivered courses: must have hands-ons, must use our national
+   systems, must send us a syllabus before a deadline
+1. find a way to clearly recognize and promote faculty who support the schools / present sessions
+
+## Face-to-face March-06
+
 - room booking
 - fill in the program with confirmed courses
 - advertise the missing pieces
@@ -37,6 +45,12 @@ bioinformatics
   workshop-style sessions, will start reaching out
 
 
+## Recording and broadcasting
+
+Garth Feb-27
+- would much prefer to record the screens
+- either he will travel to Vancouver, or find someone from audio/video support at UBC
+- ACTION send him the room numbers as soon as I have them
 
 
 
