@@ -14,7 +14,8 @@ nav: true
 
 1. have as much participation from analysts and the UBC ARC staff (teaching the courses)
 1. have more stringent rules for faculty-delivered courses: must have hands-ons, must use our national
-   systems, must send us a syllabus before a deadline
+   systems, must send us a syllabus before a deadline; the same should apply to any GSC presentations so
+   that they don’t end up promoting their own clusters
 1. find a way to clearly recognize and promote faculty who support the schools / present sessions
 
 ## Face-to-face March-06
@@ -135,12 +136,6 @@ training specifics
 - CC cloud
 - Hadoop, Spark, data science
 - OpenMP, MPI (probably not since we'll have Chapel)
-
-Here is what we would like to do differently this year:
-
-1. have as much participation from analysts and the UBC ARC staff (teaching the courses),
-1. have more stringent rules for faculty-delivered courses: must have hands-ons, must use our national systems, must send us a syllabus before a deadline in May (otherwise their class will be cancelled); the same should apply to any GSC presentations so that they don’t end up promoting their own clusters,
-1. find a way to clearly recognize and promote faculty who support the schools / present sessions.
 
 &nbsp;
 
