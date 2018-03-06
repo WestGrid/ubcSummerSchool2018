@@ -48,6 +48,9 @@ WestGrid would like the courses:
     or Graham), and
 - ideally with a persistent environment for MATLAB use, including beyond the particular summer courses
 
+We are looking to have a MATLAB session in one of the last two days of the schools. The class could be
+either half-day (3 hours) or full-day (6 hours).
+
 Mathworks can easily provide training with the first two requirements met, assuming that
 - all the right software is in place for use
 - enough lead time to prepare
@@ -87,6 +90,9 @@ we could focus the content appropriately.
 
 In any case, I’ll wait to hear from you. Then we can discuss both topics 1) Providing software access, 2)
 training specifics
+
+
+
 
 
 
