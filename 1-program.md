@@ -9,6 +9,7 @@ nav: true
 - Monday June-11 to Thursday June-14
 - website http://bit.ly/ubcwg18
 - repo https://github.com/WestGrid/ubcSummerSchool2018.git
+- announcement and registration opening around May-01
 
 ## What we would like to do differently this year
 
@@ -17,23 +18,63 @@ nav: true
    systems, must send us a syllabus before a deadline; the same should apply to any GSC presentations so
    that they don’t end up promoting their own clusters
 1. find a way to clearly recognize and promote faculty who support the schools / present sessions
+1. have a 1h panel on career options after PhD (have HPC background, now what?), bring in people from
+   different domains, put this into the program, re-use one of the lecture halls off-schedule, advertsie
+   as a networking event, maybe some instructors will want to participate as well
 
-## Face-to-face March-06
+## Action items
 
-- room booking
-- fill in the program with confirmed courses
-- advertise the missing pieces
-- faculty-contributed courses
-  - rules for the faculty
-  - how do we clearly recognize and promote faculty who support the schools / present sessions
-- recording / broadcasting
+**Alex:**
+* (with Jana) in the evenbrite registration form have checkboxes for individual courses, so that we know
+  the attendance better, maybe set a larger cap this year (20% more attendees?)
+* eventual email to faculty: our conditions (also put these on the website)
+* email analysts (and then selected CC instructors): we need CUDA (and/or OpenACC) and Julia instructors
+* email HPC Intro materials to Roman
+* ping Wolfgang Richter and Ata Roudgar again
+* talk to Garth: we would much prefer to capture screens with a camera, logistically we don't want to
+  support instructor laptops, they might refuse to instal software, etc.
+* email Mathworks
+  - we are really interested in using the TAH UBC license
+  - work with the instructors: need intro, need to show running/scaling on Cedar
+  - let them decide on 3h vs 6h
+- send to Garth the room numbers as soon as we have them
+
+**Jamie:**
+* (with Steve) look into the process to let UBC faculty claim courses to their credit
+* talk to Philip Richmond
+  - ask if Philip covers snakemake; if not, Jamie could look into teaching it using hpc-python materials
+* talk to Martin K from the GSC
+* talk to ECOSCOPE folks
+* ask at Feb-07 CC bioinformatics meeting for volunteers to teach Galaxy/GenAP
+
+**Roman:**
+* ask people about the career panel
+* approach Brent about a cloud course
+  - if not, ask Ryan Enge
+  - if not, ask Venkat (Brent's replacement)
+* ask Phil Austin if he wants to repeat his HPC Python course (Parallelization in Python 3 and large datasets)
+* talk to Matt from IBM about repeating his Spark/Hadoop course (Data Science at Scale with Hadoop, Spark
+  and The Data Science Experience)
+
+**Kamil:**
+- room booking (aiming to have the same rooms, still looking)
+
+**someone:**
+* do we invite Patrick Walls? (Jupyter notebooks and scientific computing in Python)
+* do we invite Schuyler Lindberg? (Introduction to Harvesting API Data in Python from UBC Library's Open Collections)
 
 ## Courses
 
-Alex Razoumov
-- *Introduction to HPC* (full-day, could shorten)
-- *Chapel* (full-day)
-- *Scientific visualization with ParaView* (full-day, could shorten)
+| date and time | lecture theatre | smaller classroom |
+| ------------- | --------------- | ----------------- |
+| Mon **11th** morning | *Introduction to HPC* by Roman Baranowski | *bioinformatics pipeline on Cedar* by Philip Richmond |
+| Mon **11th** afternoon | *Introduction to HPC* by Roman Baranowski (cont.) | |
+| Tue **12th** morning | *Chapel* by Alex Razoumov | |
+| Tue **12th** afternoon | *Chapel* by Alex Razoumov (cont.) | |
+| Wed **13th** morning | *Basics of scientific visualization with ParaView* by Alex Razoumov | Martin Krzywinski (GSC) |
+| Wed **13th** afternoon | *Large-scale remote ParaView visualization* by Alex Razoumov | |
+| Thu **14th** morning | Phil Austin? | cloud course? |
+| Thu **14th** afternoon | Matt McInnis? | *bioinfo and data graphics in R for microbiologists* by ECOSCOPE |
 
 Wolfgang Richter (tentative), or Ata Roudgar (more experienced with installation than using SQL)
 - a database workshop
@@ -41,19 +82,20 @@ Wolfgang Richter (tentative), or Ata Roudgar (more experienced with installation
     health issues
   - Feb-09: aiming to have the latest MySQL and Postgres service on Cedar by the end of February
 
-bioinformatics
-- Feb-14: Jamie will organize a more hands-on bioinformatics session at UBC, has some leads on more
-  workshop-style sessions, will start reaching out
+## Next face-to-face March-20 @2pm
 
+- discuss the program table
+- looking for instructors for the missing pieces
+- faculty-contributed courses
+  - rules for the faculty
+  - how do we clearly recognize and promote faculty who support the schools / present sessions
+- recording / broadcasting
 
 ## Recording and broadcasting
 
 Garth Feb-27
-- would much prefer to record the screens
+- would much prefer to use screen-capture software
 - either he will travel to Vancouver, or find someone from audio/video support at UBC
-- ACTION send him the room numbers as soon as I have them
-
-
 
 ## MATLAB
 
@@ -106,28 +148,10 @@ we could focus the content appropriately.
 In any case, I’ll wait to hear from you. Then we can discuss both topics 1) Providing software access, 2)
 training specifics
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Other possible topics
 
 - something on DH on CC hardware
   - tap Even Thornberry, the new GIS librarian at UBC
-- genomics on CC hardware
-  - GenAP portal? (better fit for CC audience?)
-  - GSC?
-  - using Galaxy on Cedar?
 - HPC Python on CC hardware
 - Jupyter notebooks (on CC instances) and scientific computing in Python
 - Julia language
