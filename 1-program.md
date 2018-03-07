@@ -76,12 +76,6 @@ nav: true
 | Thu **14th** morning | Phil Austin? | cloud course? |
 | Thu **14th** afternoon | Matt McInnis? | *bioinfo and data graphics in R for microbiologists* by ECOSCOPE |
 
-Wolfgang Richter (tentative), or Ata Roudgar (more experienced with installation than using SQL)
-- a database workshop
-  - 2017-Oct-27: Wolfgang wants to teach a database course in Vancouver but he might not be able due to
-    health issues
-  - Feb-09: aiming to have the latest MySQL and Postgres service on Cedar by the end of February
-
 ## Next face-to-face March-20 @2pm
 
 - discuss the program table
@@ -96,6 +90,15 @@ Wolfgang Richter (tentative), or Ata Roudgar (more experienced with installation
 Garth Feb-27
 - would much prefer to use screen-capture software
 - either he will travel to Vancouver, or find someone from audio/video support at UBC
+
+## Databases
+
+Wolfgang Richter (tentative), or Ata Roudgar (more experienced with installation than using SQL)
+
+- a database workshop
+  - 2017-Oct-27: Wolfgang wants to teach a database course in Vancouver but he might not be able due to
+    health issues
+  - Feb-09: aiming to have the latest MySQL and Postgres service on Cedar by the end of February
 
 ## MATLAB
 
