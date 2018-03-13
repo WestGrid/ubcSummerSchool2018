@@ -32,8 +32,8 @@ nav: true
 * ping Wolfgang Richter and Ata Roudgar again
 * talk to Garth
   - we would much prefer to capture screens with a camera, logistically we don't want to support
-    instructor laptops, they might refuse to instal software, etc.
-  - send the room numbers as soon as we have them
+    instructor laptops, they might refuse to install software, etc.
+  - share the room numbers as soon as we have them
 * DONE email Mathworks
   - we are really interested in using the TAH UBC license
   - work with the instructors: need intro, need to show running/scaling on Cedar, make sure everyone can
@@ -78,6 +78,8 @@ nav: true
 | Thu **14th** morning | Phil Austin? | cloud course? |
 | Thu **14th** afternoon | Matt McInnis? | *bioinfo and data graphics in R for microbiologists* by ECOSCOPE |
 
+&nbsp;
+
 ## Next face-to-face Mar-20 @2pm
 
 - discuss the program table
@@ -90,7 +92,7 @@ nav: true
 ## Recording and broadcasting
 
 Garth Feb-27
-- would much prefer to use screen-capture software
+- Garth would much prefer to use screen-capture software
 - either he will travel to Vancouver, or find someone from audio/video support at UBC
 
 ## Databases
