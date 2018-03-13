@@ -25,19 +25,21 @@ nav: true
 ## Action items
 
 **Alex:**
-* (with Jana) in the evenbrite registration form have checkboxes for individual courses, so that we know
-  the attendance better, maybe set a larger cap this year (20% more attendees?)
-* eventual email to faculty: our conditions (also put these on the website)
-* email analysts (and then selected CC instructors): we need CUDA (and/or OpenACC) and Julia instructors
-* email HPC Intro materials to Roman
+* DONE talk to Jana: in the evenbrite registration form have checkboxes for individual courses, so that
+  we know the attendance better, maybe set a larger cap this year (20% more attendees?)
+* DONE email analysts (and then selected CC instructors): we need CUDA (and/or OpenACC) and Julia instructors
+* DONE email HPC Intro materials to Roman
 * ping Wolfgang Richter and Ata Roudgar again
-* talk to Garth: we would much prefer to capture screens with a camera, logistically we don't want to
-  support instructor laptops, they might refuse to instal software, etc.
-* email Mathworks
+* talk to Garth
+  - we would much prefer to capture screens with a camera, logistically we don't want to support
+    instructor laptops, they might refuse to instal software, etc.
+  - send the room numbers as soon as we have them
+* DONE email Mathworks
   - we are really interested in using the TAH UBC license
-  - work with the instructors: need intro, need to show running/scaling on Cedar
+  - work with the instructors: need intro, need to show running/scaling on Cedar, make sure everyone can
+    access MATLAB
   - let them decide on 3h vs 6h
-- send to Garth the room numbers as soon as we have them
+* eventual email to faculty: our conditions (also put these on the website)
 
 **Jamie:**
 * (with Steve) look into the process to let UBC faculty claim courses to their credit
@@ -69,14 +71,14 @@ nav: true
 | ------------- | --------------- | ----------------- |
 | Mon **11th** morning | *Introduction to HPC* by Roman Baranowski | *bioinformatics pipeline on Cedar* by Philip Richmond |
 | Mon **11th** afternoon | *Introduction to HPC* by Roman Baranowski (cont.) | |
-| Tue **12th** morning | *Chapel* by Alex Razoumov | |
-| Tue **12th** afternoon | *Chapel* by Alex Razoumov (cont.) | |
-| Wed **13th** morning | *Basics of scientific visualization with ParaView* by Alex Razoumov | Martin Krzywinski (GSC) |
-| Wed **13th** afternoon | *Large-scale remote ParaView visualization* by Alex Razoumov | |
+| Tue **12th** morning | *Parallel programming in Chapel* by Alex Razoumov | |
+| Tue **12th** afternoon | *Parallel programming in Chapel* by Alex Razoumov (cont.) | Martin Krzywinski (GSC) |
+| Wed **13th** morning | *Basics of scientific visualization with ParaView* by Alex Razoumov | MATLAB by Mathworks |
+| Wed **13th** afternoon | *Large-scale remote visualization with ParaView* by Alex Razoumov | MATLAB cont.? |
 | Thu **14th** morning | Phil Austin? | cloud course? |
 | Thu **14th** afternoon | Matt McInnis? | *bioinfo and data graphics in R for microbiologists* by ECOSCOPE |
 
-## Next face-to-face March-20 @2pm
+## Next face-to-face Mar-20 @2pm
 
 - discuss the program table
 - looking for instructors for the missing pieces
@@ -99,6 +101,20 @@ Wolfgang Richter (tentative), or Ata Roudgar (more experienced with installation
   - 2017-Oct-27: Wolfgang wants to teach a database course in Vancouver but he might not be able due to
     health issues
   - Feb-09: aiming to have the latest MySQL and Postgres service on Cedar by the end of February
+
+## Other possible topics
+
+- GPU programming with CUDA and/or OpenACC
+- CC cloud
+- something on DH on CC hardware
+  - tap Even Thornberry, the new GIS librarian at UBC
+- Python on CC clusters
+  - teach the quirks of maintaining your own Python/R installations and using them in a cluster
+    environment: the Lmod environment module system, virtualenv, explain circumstances in which Jupyter
+    notebooks can and cannot be used, the CC Python wheel-based system
+  - HPC Python
+- Julia language
+- hybrid programming with MPI+OpenMP
 
 ## MATLAB
 
@@ -150,19 +166,6 @@ we could focus the content appropriately.
 
 In any case, I’ll wait to hear from you. Then we can discuss both topics 1) Providing software access, 2)
 training specifics
-
-## Other possible topics
-
-- something on DH on CC hardware
-  - tap Even Thornberry, the new GIS librarian at UBC
-- HPC Python on CC hardware
-- Jupyter notebooks (on CC instances) and scientific computing in Python
-- Julia language
-- hybrid programming with MPI+OpenMP
-- GPU programming with CUDA and/or OpenACC
-- CC cloud
-- Hadoop, Spark, data science
-- OpenMP, MPI (probably not since we'll have Chapel)
 
 &nbsp;
 
