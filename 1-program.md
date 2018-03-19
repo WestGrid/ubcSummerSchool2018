@@ -11,6 +11,22 @@ nav: true
 - repo https://github.com/WestGrid/ubcSummerSchool2018.git
 - announcement and registration opening around May-01
 
+## Courses
+
+| date and time | lecture theatre | smaller classroom |
+| ------------- | --------------- | ----------------- |
+| Mon **11th** morning | *Introduction to HPC* by Roman Baranowski | *bioinformatics pipeline on Cedar* by Philip Richmond |
+| Mon **11th** afternoon | *Introduction to HPC* by Roman Baranowski (cont.) | |
+| Tue **12th** morning | *Parallel programming in Chapel* by Alex Razoumov | |
+| Tue **12th** afternoon | *Parallel programming in Chapel* by Alex Razoumov (cont.) | Martin Krzywinski (GSC) |
+| Wed **13th** morning | *Basics of scientific visualization with ParaView* by Alex Razoumov | MATLAB by Mathworks |
+| Wed **13th** afternoon | *Large-scale remote visualization with ParaView* by Alex Razoumov | MATLAB cont. |
+| Thu **14th** morning | Phil Austin? | cloud course? |
+| Thu **14th** afternoon | Matt McInnis? | *bioinfo and data graphics in R for microbiologists* by ECOSCOPE |
+{:.mbtablestyle}
+
+&nbsp;
+
 ## What we would like to do differently this year
 
 1. have as much participation from analysts and the UBC ARC staff (teaching the courses)
@@ -29,7 +45,7 @@ nav: true
   we know the attendance better, maybe set a larger cap this year (20% more attendees?)
 * DONE email analysts (and then selected CC instructors): we need CUDA (and/or OpenACC) and Julia instructors
 * DONE email HPC Intro materials to Roman
-* ping Wolfgang Richter and Ata Roudgar again
+* DONE ping Wolfgang Richter and Ata Roudgar again
 * talk to Garth
   - we would much prefer to capture screens with a camera, logistically we don't want to support
     instructor laptops, they might refuse to install software, etc.
@@ -64,21 +80,6 @@ nav: true
 **someone:**
 * do we invite Patrick Walls? (Jupyter notebooks and scientific computing in Python)
 * do we invite Schuyler Lindberg? (Introduction to Harvesting API Data in Python from UBC Library's Open Collections)
-
-## Courses
-
-| date and time | lecture theatre | smaller classroom |
-| ------------- | --------------- | ----------------- |
-| Mon **11th** morning | *Introduction to HPC* by Roman Baranowski | *bioinformatics pipeline on Cedar* by Philip Richmond |
-| Mon **11th** afternoon | *Introduction to HPC* by Roman Baranowski (cont.) | |
-| Tue **12th** morning | *Parallel programming in Chapel* by Alex Razoumov | |
-| Tue **12th** afternoon | *Parallel programming in Chapel* by Alex Razoumov (cont.) | Martin Krzywinski (GSC) |
-| Wed **13th** morning | *Basics of scientific visualization with ParaView* by Alex Razoumov | MATLAB by Mathworks |
-| Wed **13th** afternoon | *Large-scale remote visualization with ParaView* by Alex Razoumov | MATLAB cont.? |
-| Thu **14th** morning | Phil Austin? | cloud course? |
-| Thu **14th** afternoon | Matt McInnis? | *bioinfo and data graphics in R for microbiologists* by ECOSCOPE |
-
-&nbsp;
 
 ## Next face-to-face Mar-20 @2pm
 
