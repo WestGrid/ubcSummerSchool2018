@@ -6,12 +6,12 @@ layout: default
 
 # Research computing summer school
 
-> Monday June 11th to Thursday June 14th, 2018
+## Monday June 11th to Thursday June 14th, 2018
 
 This event is brought to you by [WestGrid](https://www.westgrid.ca) and
 [UBC ARC Department](https://arc.ubc.ca). The main goals of this school are:
 
-1. training researchers to efficiently use
+1. training researchers to use efficiently
    [Compute Canada's national systems](https://docs.computecanada.ca/wiki/National_systems) in their
    scientific workflows, irrespective of the discipline, and
 1. introducing modern tools and techniques.
