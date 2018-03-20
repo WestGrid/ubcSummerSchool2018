@@ -13,6 +13,11 @@ nav: true
 
 ## Courses (tentative program)
 
+- confirming with ?-instructors
+- need to add Megan
+- any instructor with **fixed dates/times**?
+- does this schedule look reasonable, do we want to move anything around?
+
 | date and time | lecture theatre | smaller classroom |
 | ------------- | --------------- | ----------------- |
 | Mon **11th** morning | *Introduction to HPC* by Roman Baranowski | *bioinformatics pipeline on Cedar* by Philip Richmond |
@@ -32,7 +37,8 @@ nav: true
 - Megan Lobay (data management)
   - Megan's DHSI course -- Tri-council policies, tools for creating RDM plans, file naming, sharing,
     privacy/security issues -- does not cover CC ...
-  - we would like Globus, ownCloud/Nextcloud, using these for file sharing and publishing
+  - happy to do a workshop on Globus, ownCloud/Nextcloud, and using these for file sharing and
+    publishing, as a way of engaging with Compute Canada
 
 ## Action items
 
