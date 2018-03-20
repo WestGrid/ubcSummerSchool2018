@@ -13,46 +13,41 @@ nav: true
 
 ## Courses (tentative program)
 
-- confirming with ?-instructors
-- need to add Megan
-- any instructor with **fixed dates/times**?
-- does this schedule look reasonable, do we want to move anything around?
+- <sup>fixed</sup> means the instructor is available only on this date/time (cannot be moved)
 
 | date and time | lecture theatre | smaller classroom |
 | ------------- | --------------- | ----------------- |
-| Mon **11th** morning | *Introduction to HPC* by Roman Baranowski | *bioinformatics pipeline on Cedar* by Philip Richmond |
+| Mon **11th** morning | *Introduction to HPC* by Roman Baranowski | *Bioinformatics pipeline on Cedar* by Philip Richmond |
 | Mon **11th** afternoon | *Introduction to HPC* by Roman Baranowski (cont.) | [*Databases*]({{ site.baseurl }}/wolfgang.html) by Wolfgang Richter |
 | Tue **12th** morning | *Parallel programming in Chapel* by Alex Razoumov | *GPU course* by Juan Zuniga |
 | Tue **12th** afternoon | *Parallel programming in Chapel* by Alex Razoumov (cont.) | Martin Krzywinski? (GSC) |
 | Wed **13th** morning | *Basics of scientific visualization with ParaView* by Alex Razoumov | MATLAB by Mathworks |
 | Wed **13th** afternoon | *Large-scale remote visualization with ParaView* by Alex Razoumov | MATLAB cont. |
-| Thu **14th** morning | Phil Austin? | cloud course? |
-| Thu **14th** afternoon | Matt McInnis? | *bioinfo and data graphics in R for microbiologists* by ECOSCOPE |
+| Thu **14th** morning | *Parallelization in Python 3 and large datasets* by Phil Austin <sup>fixed</sup> | *CC cloud* |
+| Thu **14th** afternoon | *Amazon AWS* | *Bioinfo and data graphics in R for microbiologists* by ECOSCOPE <sup>fixed</sup> |
+| Thu **14th** 4pm-5pm | open panel on post-PhD career options | |
 {:.mbtablestyle}
 
 &nbsp;
 
-**Tentative**:
-- Dmitri Rozmanov (Python on Cedar?, regular expressions?, his data science experience?)
-- Megan Lobay (data management)
-  - Megan's DHSI course -- Tri-council policies, tools for creating RDM plans, file naming, sharing,
-    privacy/security issues -- does not cover CC ...
-  - happy to do a workshop on Globus, ownCloud/Nextcloud, and using these for file sharing and
-    publishing, as a way of engaging with Compute Canada
+**Notes**:
+- Dmitri Rozmanov tentative (Python on Cedar?, regular expressions?, his data science experience?)
+- Megan Lobay will teach RDM principles in 15-30 min slot inside Roman's HPC INtro course
+  - possible topics: tools for creating RDM plans, file naming, sharing, privacy/security issues
+- Matt McInnis from IBM is unreachable; Roman is working with other IBM contacts
+- Steve Cundy met with Amazon AWS, they really want to participate in our summer school
+- CC cloud: Brent interested, needs more time to think, if not then Venkat
+- Martin Krzywinski is unsure, has until March to think it over (but not the design course)
+- so far no one to teach Julia
 
 ## Action items
 
 **Alex:**
-* DONE talk to Jana: in the evenbrite registration form have checkboxes for individual courses, so that
-  we know the attendance better, maybe set a larger cap this year (20% more attendees?)
-* DONE email analysts: Juan and Wolfgang confirmed (asked Ata to TA for Wolfgang), Dmitri and Megan
-  tentative, so far no one to teach Julia
-* DONE email HPC Intro materials to Roman
 * talk to Garth
   - we would much prefer to capture screens with a camera, logistically we don't want to support
     instructor laptops, they might refuse to install software, etc.
   - share the room numbers as soon as we have them
-* DONE email Mathworks
+* work with Mathworks
   - we are really interested in using the TAH UBC license
   - work with the instructors: need intro, need to show running/scaling on Cedar, make sure everyone can
     access MATLAB
@@ -60,36 +55,22 @@ nav: true
 * eventual email to faculty: our conditions (also put these on the website)
 
 **Jamie:**
-* (with Steve) look into the process to let UBC faculty claim courses to their credit
-* talk to Philip Richmond
-  - ask if Philip covers snakemake; if not, Jamie could look into teaching it using hpc-python materials
-* talk to Martin Krzywinski from the GSC
-* talk to ECOSCOPE folks
-* ask at Feb-07 CC bioinformatics meeting for volunteers to teach Galaxy/GenAP
+* Martin Krzywinski has to decide until the end of March
+* ECOSCOPE "most likely confirmed" as of Mar-20 (the instructor should fly back into Vancouver on Tuesday)
+* Feb-07 CC bioinformatics meeting: volunteers to teach Galaxy/GenAP?
 
 **Roman:**
-* ask people about the career panel
-* approach Brent about a cloud course
-  - if not, ask Ryan Enge
-  - if not, ask Venkat (Brent's replacement)
-* ask Phil Austin if he wants to repeat his HPC Python course (Parallelization in Python 3 and large datasets)
-* talk to Matt from IBM about repeating his Spark/Hadoop course (Data Science at Scale with Hadoop, Spark
-  and The Data Science Experience)
+* Mar-20 has not head back from Gino DiLabio
+* Mar-20 has not head back from Ian Allison (PIMS) on someone from his team to teach Jupyter/Python; Ian
+  himself will be in Europe; could be Patrick Walls?
+* Mar-20 contacting people about participating in the career panel (Brent, finance, etc)
 
 **Kamil:**
-- room booking (aiming to have the same rooms, still looking)
+- room booking: 2017 Pharmacy rooms not available, still looking
 
-**someone:**
-* do we invite Patrick Walls? (Jupyter notebooks and scientific computing in Python)
-* do we invite Schuyler Lindberg? (Introduction to Harvesting API Data in Python from UBC Library's Open Collections)
-
-## Next face-to-face Mar-20 @2pm
+## Next face-to-face Apr-03 @2pm
 
 - discuss the program table
-- looking for instructors for the missing pieces
-- faculty-contributed courses
-  - rules for the faculty
-  - how do we clearly recognize and promote faculty who support the schools / present sessions
 - recording / broadcasting
 
 ## What we would like to do differently this year
@@ -108,70 +89,6 @@ nav: true
 Garth Feb-27
 - Garth would much prefer to use screen-capture software
 - either he will travel to Vancouver, or find someone from audio/video support at UBC
-
-## Other possible topics
-
-- CC cloud
-- something on DH on CC hardware
-  - tap Even Thornberry, the new GIS librarian at UBC
-- Python on CC clusters
-  - teach the quirks of maintaining your own Python/R installations and using them in a cluster
-    environment: the Lmod environment module system, virtualenv, explain circumstances in which Jupyter
-    notebooks can and cannot be used, the CC Python wheel-based system
-  - HPC Python
-- Julia language
-- hybrid programming with MPI+OpenMP
-
-## MATLAB
-
-WestGrid would like the courses:
-- with lots of hands-on exercises for all attendees (not just demos on the screen), and
-- showing how you can scale the workflow to bigger problems on a Compute Canada national cluster (Cedar
-    or Graham), and
-- ideally with a persistent environment for MATLAB use, including beyond the particular summer courses
-
-We are looking to have a MATLAB session in one of the last two days of the schools. The class could be
-either half-day (3 hours) or full-day (6 hours).
-
-Mathworks can easily provide training with the first two requirements met, assuming that
-- all the right software is in place for use
-- enough lead time to prepare
-
-License types we could use:
-1. anyone can install a 30-day self-serve trial of MATLAB from MathWorks website; these licenses don’t
-   come with MATLAB Distributed Computing Server; MathWorks could give us access to that on their central
-   resource
-1. short-course licenses for short courses; this approach will be formalized in the near future but it's
-   not yet advertised; can offer access to MATLAB beyond the term of the course
-1. use existing access to MATLAB, for the duration of the course and beyond, depending on the course
-   attendees’ affiliations
-
-Many schools in Canada have significant MATLAB access, and multiple licenses include MATLAB Distributed
-Computing Server access, depending on the site.
-
-- TAH (Total Academic Headcount) / enterprise licenses: allow any student, faculty, or other users of the
-  university licenses to use MATLAB and multiple other products
-  - UBC has a TAH license with 53 products on it (as of December), all of which accessible by all UBC users
-  - with this license, UBC may grant "3rd-party access" to others not at the university, up to
-    indefinitely, at their option
-- CC and bring-your-own-license (BYOL): CC has a "Hosting Provider" status to enable usage of
-  hardware/software resources across universities (users from different universities can use each other's
-  hardware/software; however, they must have a local license (at their own site) for the software they
-  wish to use on the other university's site
-
-In any case, Mathworks would like to work with us to figure out how to provide training and software
-access for the training. If there are reasons why ongoing usage outside the course is a barrier,
-Mathworks would like to learn and understand more about that.
-
-Mathworks: as a next step, would it make sense to have a call to work through some of this, maybe get
-more of the specific detail and figure out how we can make a training work in a way that meets your
-objectives?
-
-Mathworks would be interested to hear more about the backgrounds and disciplines of the attendees so that
-we could focus the content appropriately.
-
-In any case, I’ll wait to hear from you. Then we can discuss both topics 1) Providing software access, 2)
-training specifics
 
 &nbsp;
 
