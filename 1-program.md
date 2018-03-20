@@ -16,9 +16,9 @@ nav: true
 | date and time | lecture theatre | smaller classroom |
 | ------------- | --------------- | ----------------- |
 | Mon **11th** morning | *Introduction to HPC* by Roman Baranowski | *bioinformatics pipeline on Cedar* by Philip Richmond |
-| Mon **11th** afternoon | *Introduction to HPC* by Roman Baranowski (cont.) | |
-| Tue **12th** morning | *Parallel programming in Chapel* by Alex Razoumov | |
-| Tue **12th** afternoon | *Parallel programming in Chapel* by Alex Razoumov (cont.) | Martin Krzywinski (GSC) |
+| Mon **11th** afternoon | *Introduction to HPC* by Roman Baranowski (cont.) | [*Databases*]({{ site.baseurl }}/wolfgang.html) by Wolfgang Richter |
+| Tue **12th** morning | *Parallel programming in Chapel* by Alex Razoumov | *GPU course* by Juan Zuniga |
+| Tue **12th** afternoon | *Parallel programming in Chapel* by Alex Razoumov (cont.) | Martin Krzywinski? (GSC) |
 | Wed **13th** morning | *Basics of scientific visualization with ParaView* by Alex Razoumov | MATLAB by Mathworks |
 | Wed **13th** afternoon | *Large-scale remote visualization with ParaView* by Alex Razoumov | MATLAB cont. |
 | Thu **14th** morning | Phil Austin? | cloud course? |
@@ -27,25 +27,17 @@ nav: true
 
 &nbsp;
 
-## What we would like to do differently this year
+**Tentative**: Dmitri Rozmanov (Python on Cedar?, regular expressions?, his data science experience?)
 
-1. have as much participation from analysts and the UBC ARC staff (teaching the courses)
-1. have more stringent rules for faculty-delivered courses: must have hands-ons, must use our national
-   systems, must send us a syllabus before a deadline; the same should apply to any GSC presentations so
-   that they don’t end up promoting their own clusters
-1. find a way to clearly recognize and promote faculty who support the schools / present sessions
-1. have a 1h panel on career options after PhD (have HPC background, now what?), bring in people from
-   different domains, put this into the program, re-use one of the lecture halls off-schedule, advertsie
-   as a networking event, maybe some instructors will want to participate as well
+&nbsp;
 
 ## Action items
 
 **Alex:**
 * DONE talk to Jana: in the evenbrite registration form have checkboxes for individual courses, so that
   we know the attendance better, maybe set a larger cap this year (20% more attendees?)
-* DONE email analysts (and then selected CC instructors): we need CUDA (and/or OpenACC) and Julia instructors
+* DONE email analysts: Juan and Wolfgang confirmed, Dmitri tentative, so far no one to teach Julia
 * DONE email HPC Intro materials to Roman
-* DONE ping Wolfgang Richter and Ata Roudgar again
 * talk to Garth
   - we would much prefer to capture screens with a camera, logistically we don't want to support
     instructor laptops, they might refuse to install software, etc.
@@ -54,14 +46,14 @@ nav: true
   - we are really interested in using the TAH UBC license
   - work with the instructors: need intro, need to show running/scaling on Cedar, make sure everyone can
     access MATLAB
-  - let them decide on 3h vs 6h
+  - full-day
 * eventual email to faculty: our conditions (also put these on the website)
 
 **Jamie:**
 * (with Steve) look into the process to let UBC faculty claim courses to their credit
 * talk to Philip Richmond
   - ask if Philip covers snakemake; if not, Jamie could look into teaching it using hpc-python materials
-* talk to Martin K from the GSC
+* talk to Martin Krzywinski from the GSC
 * talk to ECOSCOPE folks
 * ask at Feb-07 CC bioinformatics meeting for volunteers to teach Galaxy/GenAP
 
@@ -90,6 +82,17 @@ nav: true
   - how do we clearly recognize and promote faculty who support the schools / present sessions
 - recording / broadcasting
 
+## What we would like to do differently this year
+
+1. have as much participation from analysts and the UBC ARC staff (teaching the courses)
+1. have more stringent rules for faculty-delivered courses: must have hands-ons, must use our national
+   systems, must send us a syllabus before a deadline; the same should apply to any GSC presentations so
+   that they don’t end up promoting their own clusters
+1. find a way to clearly recognize and promote faculty who support the schools / present sessions
+1. have a 1h panel on career options after PhD (have HPC background, now what?), bring in people from
+   different domains, put this into the program, re-use one of the lecture halls off-schedule, advertsie
+   as a networking event, maybe some instructors will want to participate as well
+
 ## Recording and broadcasting
 
 Garth Feb-27
@@ -107,7 +110,6 @@ Wolfgang Richter (tentative), or Ata Roudgar (more experienced with installation
 
 ## Other possible topics
 
-- GPU programming with CUDA and/or OpenACC
 - CC cloud
 - something on DH on CC hardware
   - tap Even Thornberry, the new GIS librarian at UBC
