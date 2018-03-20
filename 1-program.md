@@ -11,7 +11,7 @@ nav: true
 - repo https://github.com/WestGrid/ubcSummerSchool2018.git
 - announcement and registration opening around May-01
 
-## Courses
+## Courses (tentative program)
 
 | date and time | lecture theatre | smaller classroom |
 | ------------- | --------------- | ----------------- |
@@ -27,16 +27,20 @@ nav: true
 
 &nbsp;
 
-**Tentative**: Dmitri Rozmanov (Python on Cedar?, regular expressions?, his data science experience?)
-
-&nbsp;
+**Tentative**:
+- Dmitri Rozmanov (Python on Cedar?, regular expressions?, his data science experience?)
+- Megan Lobay (data management)
+  - Megan's DHSI course -- Tri-council policies, tools for creating RDM plans, file naming, sharing,
+    privacy/security issues -- does not cover CC ...
+  - we would like Globus, ownCloud/Nextcloud, using these for file sharing and publishing
 
 ## Action items
 
 **Alex:**
 * DONE talk to Jana: in the evenbrite registration form have checkboxes for individual courses, so that
   we know the attendance better, maybe set a larger cap this year (20% more attendees?)
-* DONE email analysts: Juan and Wolfgang confirmed, Dmitri tentative, so far no one to teach Julia
+* DONE email analysts: Juan and Wolfgang confirmed (asked Ata to TA for Wolfgang), Dmitri and Megan
+  tentative, so far no one to teach Julia
 * DONE email HPC Intro materials to Roman
 * talk to Garth
   - we would much prefer to capture screens with a camera, logistically we don't want to support
@@ -98,15 +102,6 @@ nav: true
 Garth Feb-27
 - Garth would much prefer to use screen-capture software
 - either he will travel to Vancouver, or find someone from audio/video support at UBC
-
-## Databases
-
-Wolfgang Richter (tentative), or Ata Roudgar (more experienced with installation than using SQL)
-
-- a database workshop
-  - 2017-Oct-27: Wolfgang wants to teach a database course in Vancouver but he might not be able due to
-    health issues
-  - Feb-09: aiming to have the latest MySQL and Postgres service on Cedar by the end of February
 
 ## Other possible topics
 
