@@ -21,8 +21,8 @@ nav: true
 | Mon **11th** afternoon | *Introduction to HPC* by Roman Baranowski (cont.) | [*Databases*]({{ site.baseurl }}/wolfgang.html) by Wolfgang Richter |
 | Tue **12th** morning | *Parallel programming in Chapel* by Alex Razoumov | *GPU course* by Juan Zuniga |
 | Tue **12th** afternoon | *Parallel programming in Chapel* by Alex Razoumov (cont.) | Martin Krzywinski? (GSC) |
-| Wed **13th** morning | *Basics of scientific visualization with ParaView* by Alex Razoumov | MATLAB by Mathworks |
-| Wed **13th** afternoon | *Large-scale remote visualization with ParaView* by Alex Razoumov | MATLAB cont. |
+| Wed **13th** morning | [*Basics of scientific visualization with ParaView*]({{ site.baseurl }}/alex1.html) by Alex Razoumov | MATLAB by Mathworks |
+| Wed **13th** afternoon | [*Large-scale remote visualization with ParaView*]({{ site.baseurl }}/alex2.html) by Alex Razoumov | MATLAB cont. |
 | Thu **14th** morning | *Parallelization in Python 3 and large datasets* by Phil Austin <sup>fixed</sup> | *CC cloud* |
 | Thu **14th** afternoon | *Amazon AWS* | *Bioinfo and data graphics in R for microbiologists* by ECOSCOPE <sup>fixed</sup> |
 | Thu **14th** 4pm-5pm | open panel on post-PhD career options | |
