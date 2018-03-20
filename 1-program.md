@@ -7,7 +7,7 @@ nav: true
 # 2018 notes
 
 - Monday June-11 to Thursday June-14
-- website http://bit.ly/ubcwg18
+- website **http://bit.ly/ubcwg18**
 - repo https://github.com/WestGrid/ubcSummerSchool2018.git
 - announcement and registration opening around May-01
 
