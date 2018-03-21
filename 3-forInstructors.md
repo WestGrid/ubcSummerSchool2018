@@ -15,4 +15,12 @@ Course requirements:
   - at the minimum, show some examples on clusters
   - if applicable to your course, show scaling up to large problem sizes and many cores/nodes
   - work with WestGrid to debug your cluster workflow
-1. Please send us your course syllabus early on -- you can always iterate on it later.
+
+Please send us:
+1. your course syllabus early on -- you can always iterate on it later, and
+1. any information you would like to pass to the attendees: what software they need to
+   install on their laptop, prerequisites for this course, the level of difficulty (beginner /
+   intermediate / expert)
+
+Please check out the online description of your course in the program and let us know if you want to add
+or change anything.

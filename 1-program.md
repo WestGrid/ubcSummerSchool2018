@@ -8,8 +8,9 @@ nav: true
 
 - Monday June-11 to Thursday June-14
 - website **http://bit.ly/ubcwg18**
-- repo https://github.com/WestGrid/ubcSummerSchool2018.git
+- repository https://github.com/WestGrid/ubcSummerSchool2018.git
 - announcement and registration opening around May-01
+- rooms GEOG 101 (60 seats), GEOG 147 (60 seats), GEOG 200 (100 seats)
 
 ## Courses (tentative program)
 
@@ -21,11 +22,13 @@ nav: true
 | Mon **11th** afternoon | *Introduction to HPC* by Roman Baranowski (cont.) | [*Databases*]({{ site.baseurl }}/wolfgang.html) by Wolfgang Richter |
 | Tue **12th** morning | *Parallel programming in Chapel* by Alex Razoumov | *GPU course* by Juan Zuniga |
 | Tue **12th** afternoon | *Parallel programming in Chapel* by Alex Razoumov (cont.) | Martin Krzywinski? (GSC) |
-| Wed **13th** morning | [*Basics of scientific visualization with ParaView*]({{ site.baseurl }}/alex1.html) by Alex Razoumov | MATLAB by Mathworks |
-| Wed **13th** afternoon | [*Large-scale remote visualization with ParaView*]({{ site.baseurl }}/alex2.html) by Alex Razoumov | MATLAB cont. |
+| Wed **13th** morning | [*Basics of scientific visualization with ParaView*]({{ site.baseurl }}/alex1.html) by Alex Razoumov | [*MATLAB*]({{ site.baseurl }}/mathworks.html) by Mathworks |
+| Wed **13th** afternoon | [*Large-scale remote visualization with ParaView*]({{ site.baseurl}}/alex2.html) by Alex Razoumov | [*MATLAB*]({{ site.baseurl }}/mathworks.html) by Mathworks (cont.) |
 | Thu **14th** morning | *Parallelization in Python 3 and large datasets* by Phil Austin <sup>fixed</sup> | *CC cloud* |
 | Thu **14th** afternoon | *Amazon AWS* | *Bioinfo and data graphics in R for microbiologists* by ECOSCOPE <sup>fixed</sup> |
-| Thu **14th** 4pm-5pm | open panel on post-PhD career options | |
+{:.mbtablestyle}
+
+| Thu **14th** 4pm-5pm | open panel on post-PhD career options |
 {:.mbtablestyle}
 
 &nbsp;
