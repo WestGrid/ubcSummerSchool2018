@@ -18,10 +18,10 @@ nav: true
 
 | date and time | lecture theatre | smaller classroom |
 | ------------- | --------------- | ----------------- |
-| Mon **11th** morning | *Introduction to HPC* by Roman Baranowski | *Bioinformatics pipeline on Cedar* by Philip Richmond |
-| Mon **11th** afternoon | *Introduction to HPC* by Roman Baranowski (cont.) | [*Databases*]({{ site.baseurl }}/wolfgang.html) by Wolfgang Richter |
-| Tue **12th** morning | *Parallel programming in Chapel* by Alex Razoumov | *GPU course* by Juan Zuniga |
-| Tue **12th** afternoon | *Parallel programming in Chapel* by Alex Razoumov (cont.) | Martin Krzywinski? (GSC) |
+| Mon **11th** morning | [*Introduction to HPC*]({{ site.baseurl }}/roman.html) by Roman Baranowski | *Bioinformatics pipeline on Cedar* by Phillip Richmond |
+| Mon **11th** afternoon | [*Introduction to HPC*]({{ site.baseurl }}/roman.html) by Roman Baranowski (cont.) | [*Databases*]({{ site.baseurl }}/wolfgang.html) by Wolfgang Richter |
+| Tue **12th** morning | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex0.html) by Alex Razoumov | [*Introduction to GPU programming with CUDA*]({{ site.baseurl }}/juan.html) by Juan Zuniga |
+| Tue **12th** afternoon | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex0.html) by Alex Razoumov (cont.) | [*Introduction to GPU programming with CUDA*]({{ site.baseurl }}/juan.html) by Juan Zuniga (cont.) |
 | Wed **13th** morning | [*Basics of scientific visualization with ParaView*]({{ site.baseurl }}/alex1.html) by Alex Razoumov | [*MATLAB*]({{ site.baseurl }}/mathworks.html) by Mathworks |
 | Wed **13th** afternoon | [*Large-scale remote visualization with ParaView*]({{ site.baseurl}}/alex2.html) by Alex Razoumov | [*MATLAB*]({{ site.baseurl }}/mathworks.html) by Mathworks (cont.) |
 | Thu **14th** morning | *Parallelization in Python 3 and large datasets* by Phil Austin <sup>fixed</sup> | *CC cloud* |
@@ -34,13 +34,14 @@ nav: true
 &nbsp;
 
 **Notes**:
-- Dmitri Rozmanov tentative (Python on Cedar?, regular expressions?, his data science experience?)
+- removed Martin Krzywinski (GSC) to free the spot for Juan's GPU course, might put it back in lieu of
+  alex2.md; Martin Krzywinski is unsure, has until March to think it over (but not the design course)
+- need to find a spot for Dmitri Rozmanov (tentative topic: calling C++ function from Python)
 - Megan Lobay will teach RDM principles in 15-30 min slot inside Roman's HPC INtro course
   - possible topics: tools for creating RDM plans, file naming, sharing, privacy/security issues
 - Matt McInnis from IBM is unreachable; Roman is working with other IBM contacts
 - Steve Cundy met with Amazon AWS, they really want to participate in our summer school
 - CC cloud: Brent interested, needs more time to think, if not then Venkat
-- Martin Krzywinski is unsure, has until March to think it over (but not the design course)
 - so far no one to teach Julia
 
 ## Action items

@@ -15,6 +15,8 @@ Course requirements:
   - at the minimum, show some examples on clusters
   - if applicable to your course, show scaling up to large problem sizes and many cores/nodes
   - work with WestGrid to debug your cluster workflow
+  - let us know if you need a reservation on Cedar for your class for students to run exercises, and in
+    what configuration per each student, e.g., (2 MPI tasks) x (3 cores per task)
 
 Please send us:
 1. your course syllabus early on -- you can always iterate on it later, and

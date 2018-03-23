@@ -6,6 +6,8 @@ nav: false
 
 **Instructor**: Wolfgang Richter (SFU)
 
+**Helper**: Ata Roudgar
+
 **Title**: Databases
 
 Introduction to databases on Cedar.

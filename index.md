@@ -11,10 +11,10 @@ layout: default
 This event is brought to you by [WestGrid](https://www.westgrid.ca) and
 [UBC ARC Department](https://arc.ubc.ca). The main goals of this school are:
 
-1. training researchers to use efficiently
+1. to train researchers to use
    [Compute Canada's national systems](https://docs.computecanada.ca/wiki/National_systems) in their
-   scientific workflows, irrespective of the discipline, and
-1. introducing modern tools and techniques.
+   scientific workflows, irrespective of their discipline, and
+1. to introduce modern computational tools and techniques.
 
 <div class="toc" markdown="1">
 ## Contents:
