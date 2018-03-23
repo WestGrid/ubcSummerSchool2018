@@ -28,7 +28,7 @@ An introduction to high-performance computing for those without any HPC experien
 <!-- maybe, command line use of these tools -->
 - overview of what is going to be presented in the other sessions
 
-**Duration**: 3 hours
+**Duration**: 6 hours
 
 **Level**: beginner
 
