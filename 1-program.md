@@ -34,7 +34,7 @@ nav: true
 &nbsp;
 
 **Notes**:
-- removed Martin Krzywinski (GSC) to free the spot for Juan's GPU course, might put it back in lieu of
+- removed Martin Krzywinski (GSC) to free the spot for Juan's GPU course, might put him back to replace
   alex2.md; Martin Krzywinski is unsure, has until March to think it over (but not the design course)
 - need to find a spot for Dmitri Rozmanov (tentative topic: calling C++ function from Python)
 - Matt McInnis from IBM is unreachable; Roman is working with other IBM contacts
