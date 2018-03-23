@@ -37,8 +37,6 @@ nav: true
 - removed Martin Krzywinski (GSC) to free the spot for Juan's GPU course, might put it back in lieu of
   alex2.md; Martin Krzywinski is unsure, has until March to think it over (but not the design course)
 - need to find a spot for Dmitri Rozmanov (tentative topic: calling C++ function from Python)
-- Megan Lobay will teach RDM principles in 15-30 min slot inside Roman's HPC INtro course
-  - possible topics: tools for creating RDM plans, file naming, sharing, privacy/security issues
 - Matt McInnis from IBM is unreachable; Roman is working with other IBM contacts
 - Steve Cundy met with Amazon AWS, they really want to participate in our summer school
 - CC cloud: Brent interested, needs more time to think, if not then Venkat
@@ -74,7 +72,8 @@ nav: true
 
 ## Next face-to-face Apr-03 @2pm
 
-- discuss the program table
+- fitting Dmitri into the program
+- the big room can fit only 100 people
 - recording / broadcasting
 
 ## What we would like to do differently this year

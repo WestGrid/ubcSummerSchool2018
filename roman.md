@@ -23,9 +23,10 @@ An introduction to high-performance computing for those without any HPC experien
 - profiling
 - optimization
 - best practices
-- research data management: overview of Globus, ownCloud/Nextcloud, and using these for file sharing and
-  publishing (Megan)
-<!-- maybe, command line use of these tools -->
+- research data management in 30 mins (Megan)
+  - overview of Globus, ownCloud/Nextcloud, and using these for file sharing and publishing
+  - possible: tools for creating RDM plans, file naming, sharing, privacy/security issues
+  - not likely: using these tools from the command line
 - overview of what is going to be presented in the other sessions
 
 **Duration**: 6 hours
