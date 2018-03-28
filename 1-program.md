@@ -20,10 +20,10 @@ nav: true
 | ------------- | --------------- | ----------------- |
 | Mon **11th** morning | [*Introduction to HPC*]({{ site.baseurl }}/roman.html) by Roman Baranowski | *Bioinformatics pipeline on Cedar* by Phillip Richmond |
 | Mon **11th** afternoon | [*Introduction to HPC*]({{ site.baseurl }}/roman.html) by Roman Baranowski (cont.) | [*Databases*]({{ site.baseurl }}/wolfgang.html) by Wolfgang Richter |
-| Tue **12th** morning | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex0.html) by Alex Razoumov | [*Introduction to GPU programming with CUDA*]({{ site.baseurl }}/juan.html) by Juan Zuniga |
-| Tue **12th** afternoon | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex0.html) by Alex Razoumov (cont.) | [*Introduction to GPU programming with CUDA*]({{ site.baseurl }}/juan.html) by Juan Zuniga (cont.) |
-| Wed **13th** morning | [*Basics of scientific visualization with ParaView*]({{ site.baseurl }}/alex1.html) by Alex Razoumov | [*MATLAB*]({{ site.baseurl }}/mathworks.html) by Mathworks <sup>fixed</sup> |
-| Wed **13th** afternoon | [*Large-scale remote visualization with ParaView*]({{ site.baseurl}}/alex2.html) by Alex Razoumov | [*MATLAB*]({{ site.baseurl }}/mathworks.html) by Mathworks (cont.) <sup>fixed</sup> |
+| Tue **12th** morning | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex1.html) by Alex Razoumov | [*Introduction to GPU programming with CUDA*]({{ site.baseurl }}/juan.html) by Juan Zuniga |
+| Tue **12th** afternoon | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex1.html) by Alex Razoumov (cont.) | [*Introduction to GPU programming with CUDA*]({{ site.baseurl }}/juan.html) by Juan Zuniga (cont.) |
+| Wed **13th** morning | [*Basics of scientific visualization with ParaView*]({{ site.baseurl }}/alex2.html) by Alex Razoumov | [*MATLAB*]({{ site.baseurl }}/mathworks.html) by Mathworks <sup>fixed</sup> |
+| Wed **13th** afternoon | [*Large-scale remote visualization with ParaView*]({{ site.baseurl}}/alex3.html) by Alex Razoumov | [*MATLAB*]({{ site.baseurl }}/mathworks.html) by Mathworks (cont.) <sup>fixed</sup> |
 | Thu **14th** morning | *Parallelization in Python 3 and large datasets* by Phil Austin <sup>fixed</sup> | *CC cloud* |
 | Thu **14th** afternoon | *Amazon AWS* | *Bioinfo and data graphics in R for microbiologists* by ECOSCOPE <sup>fixed</sup> |
 {:.mbtablestyle}
@@ -74,6 +74,8 @@ nav: true
 
 - fitting Dmitri into the program
 - the big room can fit only 100 people
+- Cedar reservations: how many nodes? GPU nodes? figure out the grid for the week
+- guest accounts
 - recording / broadcasting
 
 ## What we would like to do differently this year

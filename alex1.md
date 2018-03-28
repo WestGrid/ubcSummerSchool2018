@@ -1,31 +1,26 @@
 ---
 layout: default
-title: Basics of scientific visualization course
+title: Parallel programming in Chapel
 nav: false
 ---
 
 **Instructor**: Alex Razoumov (WestGrid)
 
-**Title**: Basics of scientific visualization with ParaView
+**Title**: Parallel programming in Chapel
 
-ParaView is an open-source, multi-platform data analysis and visualization tool. With ParaView you can
-interactively visualize and analyze 2D and 3D spatial data, animate these datasets in time, and
-manipulate them with a variety of filters.
+This is a general introduction to the main concepts of the Chapel parallel programming language. Chapel
+is a relatively new language for both shared- and distributed-memory programming, with easy-to-use,
+high-level abstractions that make it ideal for learning parallel programming for a novice HPC user.
 
-**Target audience**: anyone interested in 3D scientific visualization
+**Target audience**: general
 
 **Course plan**:
-- introduction and tool comparison
-- ParaView GUI overview
-- importing your data into ParaView
-- building workflows with filters
-- basic animation
+- introduction to Chapel basic language features
+- task parallelism (mostly on single node)
+- data parallelism (both on single and multiple nodes)
 
-**Duration**: 3 hours
+**Duration**: 6 hours
 
 **Level**: beginner
 
-**Prerequisites**: Attendees should bring their laptops with the latest version of ParaView installed
-from http://www.paraview.org/download. No prior visualization experience is required. We will provide
-sample data and codes for many interactive hands-on exercises, and you can bring your dataset if you
-would like to visualize it with ParaView.
+**Prerequisites**: None
