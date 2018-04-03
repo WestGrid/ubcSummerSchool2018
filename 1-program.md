@@ -63,8 +63,6 @@ nav: true
   - we are really interested in using the TAH UBC license
   - work with the instructors: need intro, need to show running/scaling on Cedar, make sure everyone can
     access MATLAB
-  - full-day
-* eventual email to faculty: our conditions (also put these on the website)
 
 **Jamie:**
 * Martin Krzywinski has to decide until the end of March
@@ -76,9 +74,6 @@ nav: true
 * Apr-03 waiting to hear from Ian Allison (PIMS) on someone from his team to teach Jupyter/Python; Ian
   himself will be in Europe; could be Patrick Walls?
 * Mar-20 contacting people about participating in the career panel (Brent, finance, etc)
-
-**Kamil:**
-- room booking: 2017 Pharmacy rooms not available, still looking
 
 ## What we would like to do differently this year
 
