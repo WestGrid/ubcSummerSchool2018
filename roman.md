@@ -35,4 +35,4 @@ An introduction to high-performance computing for those without any HPC experien
 
 **Prerequisites**: Basic knowledge of Linux command line
 
-**Setup**: need a reservation on Cedar: how many nodes? GPU nodes?
+**Setup**: Cedar reservation with 200 cores
