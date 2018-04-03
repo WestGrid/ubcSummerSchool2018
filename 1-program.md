@@ -36,11 +36,19 @@ nav: true
 **Notes**:
 - removed Martin Krzywinski (GSC) to free the spot for Juan's GPU course, might put him back to replace
   alex2.md; Martin Krzywinski is unsure, has until March to think it over (but not the design course)
-- need to find a spot for Dmitri Rozmanov (tentative topic: calling C++ function from Python)
+- need to find a spot for Dmitri Rozmanov (tentative topic: optimizing Python functions in C++)
 - Matt McInnis from IBM is unreachable; Roman is working with other IBM contacts
 - Steve Cundy met with Amazon AWS, they really want to participate in our summer school
 - CC cloud: Brent interested, needs more time to think, if not then Venkat
-- so far no one to teach Julia
+- so far no one to teach Julia language
+
+## Next face-to-face Apr-03 @2pm
+
+- fitting Dmitri into the program
+- the big room can fit only 100 people
+- Cedar reservations: how many nodes? GPU nodes? figure out the grid for the week
+- guest accounts
+- recording / broadcasting
 
 ## Action items
 
@@ -69,14 +77,6 @@ nav: true
 
 **Kamil:**
 - room booking: 2017 Pharmacy rooms not available, still looking
-
-## Next face-to-face Apr-03 @2pm
-
-- fitting Dmitri into the program
-- the big room can fit only 100 people
-- Cedar reservations: how many nodes? GPU nodes? figure out the grid for the week
-- guest accounts
-- recording / broadcasting
 
 ## What we would like to do differently this year
 
