@@ -36,3 +36,21 @@ An introduction to high-performance computing for those without any HPC experien
 **Prerequisites**: Basic knowledge of Linux command line
 
 **Setup**: Cedar reservation with 200 cores
+
+<!-- Alex for Megan's part: That’s great! Anything I can do to help with developing the materials for this -->
+<!-- course, please let me know. Especially using Globus and cloud sharing to transfer data to/from CC -->
+<!-- systems. -->
+
+<!-- It would be nice to see how to share and how to publish files with both Globus and the cloud service. In -->
+<!-- Globus they always mention publishing, and it’s a separate service, but I’ve been told we added it -->
+<!-- recently to CC’s Globus. John might know the details, and we can always discuss it in the next Team HSS -->
+<!-- meeting, and also talk about the status of ownCloud “nationalization”. Certainly we don’t want to teach -->
+<!-- services that we don’t offer, but I am pretty sure offering Globus publishing is in the pipeline. Jason -->
+<!-- Hlady from USask might know the details, and I also ask around. -->
+
+<!-- Anything you could adapt from the DHSI course — but only if it applies to all researchers — could also be -->
+<!-- useful in the WestGrid summer school course. Maybe, best practices for security, or creating RDM plans -->
+<!-- without HSS details. -->
+
+<!-- Using Globus and cloud file services from the command line could also be useful, and I can research into -->
+<!-- these, but again this is optional. -->
