@@ -47,7 +47,7 @@ nav: true
 
 - broadcasting from GEOG 200 to one of the smaller rooms
 - recording / broadcasting with Garth
-- update from Jaymie
+- update from Jamie
 - Cedar reservations: how many nodes? GPU nodes? figure out the grid for the week
 - guest accounts
 
@@ -57,7 +57,7 @@ nav: true
 * talk to Garth
   - we would much prefer to capture screens with a camera, logistically we don't want to support
     instructor laptops, they might refuse to install software, etc.
-  - share the room numbers as soon as we have them
+  - DONE share the room numbers as soon as we have them
   - broadcasting from larger to one of the smaller rooms
 * work with Mathworks
   - we are really interested in using the TAH UBC license
