@@ -8,9 +8,12 @@ nav: false
 
 **Title**: Large-scale remote visualization with ParaView
 
-ParaView is an open-source, multi-platform data analysis and visualization tool. With ParaView you can
-interactively visualize and analyze 2D and 3D spatial data, animate these datasets in time, and
-manipulate them with a variety of filters.
+Abstract: ParaView is an open source, multi-platform data analysis and visualization tool designed to run
+on a variety of hardware from an individual laptop to large supercomputers. With ParaView users can
+interactively visualize 2- and 3-dimensional data defined on structured, adaptive and unstructured meshes
+or particles, animate these datasets in time, and manipulate them with a variety of filters. ParaView
+supports both interactive (GUI) and scripted (including offscreen) visualization, and is an easy and fun
+tool to learn.
 
 **Target audience**: anyone interested in 3D scientific visualization
 

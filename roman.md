@@ -15,13 +15,12 @@ An introduction to high-performance computing for those without any HPC experien
 **Target audience**: general
 
 **Course plan**:
-- verify that all attendees can access the cluster that will be used during the school
-- hardware overview
-- basic knowledge/tools necessary to work with the cluster: how to log in, transfer files, make scripts,
-  compile code, submit jobs, etc.
+- introduction to Compute Canada systems; cluster hardware overview
+- basic knowledge and tools necessary to work with the cluster: how to log in, transfer files, write make
+  files, compile codes, submit jobs, etc.
+- quick overview of different parallel programming models: OpenMP, MPI, Chapel
 - debugging
-- profiling
-- optimization
+- profiling and optimization
 - best practices
 - research data management in 30 mins (Megan)
   - overview of Globus, ownCloud/Nextcloud, and using these for file sharing and publishing
