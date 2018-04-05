@@ -15,7 +15,7 @@ nav: true
 
 - <sup>fixed</sup> means the instructor is available only on this date/time (cannot be moved)
 
-| date and time | GEOG 200 (100 seats) | GEOG 101 (60 seats) | GEOG 147 (60 seats) |
+| date and time | GEOG 200 (100 seats) | GEOG 101 (60 seats) | GEOG 147 (60 seats) is an overflow room |
 | ------------- | --------------- | ----------------- | ----------------- |
 | Mon **11th** morning | [*Introduction to HPC*]({{ site.baseurl }}/roman.html) by Roman Baranowski | [*Bioinformatics pipeline on Cedar*]({{ site.baseurl }}/phillip.html) by Phillip Richmond | |
 | Mon **11th** afternoon | [*Introduction to HPC*]({{ site.baseurl }}/roman.html) by Roman Baranowski (cont.) | [*Databases*]({{ site.baseurl }}/wolfgang.html) by Wolfgang Richter | |
@@ -40,8 +40,6 @@ nav: true
 - perhaps, one 3-hr session on both Amazon AWS and Microsoft Azure
 - CC cloud: Brent will provide materials, Venkat will teach
 - so far no one to teach Julia language
-- recording and broadcasting: Garth will either travel to Vancouver, or find someone from audio/video
-  support at UBC
 
 ## Next face-to-face Apr-17 @2pm
 
@@ -53,13 +51,17 @@ nav: true
 
 ## Action items
 
+**Garth:**
+* confirm with Todd: planning to be in Vancouver for the entire summer school (flying back on Thursday
+  night)
+* now looking into either using a splitter to get the video signal, or recording with a camera (OBS is no
+  longer an option)
+* will talk to his contacts in AV support at UBC Vancouver about borrowing the equipment
+* will make sure there is a proper LAN connection (not relying on wireless for broadcast)
+
 **Alex:**
-* talk to Garth
-  - we would much prefer to capture screens with a camera, logistically we don't want to support
-    instructor laptops, they might refuse to install software, etc.
-  - DONE share the room numbers as soon as we have them
-  - broadcasting from larger to one of the smaller rooms
-* work with Mathworks
+* on the registration page mention the remote broadcast
+* ONGOING work with Mathworks
   - we are really interested in using the TAH UBC license
   - work with the instructors: need intro, need to show running/scaling on Cedar, make sure everyone can
     access MATLAB
