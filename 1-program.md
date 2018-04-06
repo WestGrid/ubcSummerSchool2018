@@ -10,6 +10,8 @@ nav: true
 - website http://bit.ly/ubcwg18
 - repository https://github.com/WestGrid/ubcSummerSchool2018.git
 - announcement and registration opening around May-01
+  - in the announcement and the registration page mention the remote broadcast
+  - have "interested" checkboxes for individual courses
 
 ## Courses (tentative program)
 
@@ -43,9 +45,7 @@ nav: true
 
 ## Next face-to-face Apr-17 @2pm
 
-- broadcasting from GEOG 200 to one of the smaller rooms
-- recording / broadcasting with Garth
-- update from Jamie
+- recording / broadcasting (including to the overflow room) with Garth
 - Cedar reservations: how many nodes? GPU nodes? figure out the grid for the week
 - guest accounts
 
@@ -60,7 +60,6 @@ nav: true
 * will make sure there is a proper LAN connection (not relying on wireless for broadcast)
 
 **Alex:**
-* on the registration page mention the remote broadcast
 * ONGOING work with Mathworks
   - we are really interested in using the TAH UBC license
   - work with the instructors: need intro, need to show running/scaling on Cedar, make sure everyone can
@@ -68,8 +67,8 @@ nav: true
 
 **Jamie:**
 * Martin Krzywinski has to decide until the end of March
-* ECOSCOPE "most likely confirmed" as of Mar-20 (the instructor should fly back into Vancouver on Tuesday)
-* Feb-07 CC bioinformatics meeting: volunteers to teach Galaxy/GenAP?
+* Apr-06 ECOSCOPE confirmed date/time; Jamie asked for syllabus details by the end of the next week (Apr-13)
+* CC bioinformatics team: volunteers to teach Galaxy/GenAP?
 
 **Roman:**
 * Apr-03 Gino DiLabio: interested, but mostly likely will travel, will let us know in a couple of days
