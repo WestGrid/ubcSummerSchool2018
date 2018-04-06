@@ -15,8 +15,8 @@ parallel programming for a novice HPC user.
 
 Chapel is incredibly intuitive, striving to merge the ease-of-use of Python and the performance of
 traditional compiled languages such as C and Fortran. Parallel constructs that typically take tens of
-lines of MPI code can expressed in only a few lines of Chapel code. Chapel is open source and can run on
-any Unix-like operating system, with hardware support from a laptop to a large HPC system.
+lines of MPI code can be expressed in only a few lines of Chapel code. Chapel is open source and can run
+on any Unix-like operating system, with hardware support from laptops to large HPC systems.
 
 **Target audience**: general
 
