@@ -86,14 +86,3 @@ nav: true
 * Apr-03 waiting to hear from Ian Allison (PIMS) on someone from his team to teach Jupyter/Python; Ian
   himself will be in Europe; could be Patrick Walls?
 * Mar-20 contacting people about participating in the career panel (Brent, finance, etc)
-
-## What we would like to do differently this year
-
-1. have as much participation from analysts and the UBC ARC staff (teaching the courses)
-1. have more stringent rules for faculty-delivered courses: must have hands-ons, must use our national
-   systems, must send us a syllabus before a deadline; the same should apply to any GSC presentations so
-   that they don’t end up promoting their own clusters
-1. find a way to clearly recognize and promote faculty who support the schools / present sessions
-1. have a 1h panel on career options after PhD (have HPC background, now what?), bring in people from
-   different domains, put this into the program, re-use one of the lecture halls off-schedule, advertsie
-   as a networking event, maybe some instructors will want to participate as well
