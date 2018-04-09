@@ -34,7 +34,11 @@ An introduction to high-performance computing for those without any HPC experien
 
 **Prerequisites**: Basic knowledge of Linux command line
 
-**Setup**: Cedar reservation with 200 cores
+**Setup**:
+- *Cluster reservation*: 200 cores.
+- *Cluster space*:
+- *Cluster software*:
+- *Laptop software*:
 
 <!-- Alex for Megan's part: That’s great! Anything I can do to help with developing the materials for this -->
 <!-- course, please let me know. Especially using Globus and cloud sharing to transfer data to/from CC -->

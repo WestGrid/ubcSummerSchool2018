@@ -33,7 +33,7 @@ nav: true
 | ------------- | --------------- | ----------------- | ----------------- |
 | Mon **11th** morning | [*Introduction to HPC*][roman] by Roman Baranowski | | |
 | Mon **11th** afternoon | [*Introduction to HPC*][roman] by Roman Baranowski (cont.) | [*Databases*][wolfgang] by Wolfgang Richter | |
-| Tue **12th** morning | [*Parallel programming in Chapel*][alex1] by Alex Razoumov | [*Introduction to GPU programming with CUDA*][juan] by Juan Zuniga | [*Next Generation Sequencing on Cedar*][phillip] by Phillip Richmond <sup>fixed</sup> |
+| Tue **12th** morning | [*Parallel programming in Chapel*][alex1] by Alex Razoumov | [*Introduction to GPU programming with CUDA*][juan] by Juan Zuniga | [*Next-Gen Sequencing on Cedar*][phillip] by Phillip Richmond <sup>fixed</sup> |
 | Tue **12th** afternoon | [*Parallel programming in Chapel*][alex1] by Alex Razoumov (cont.) | [*Introduction to GPU programming with CUDA*][juan] by Juan Zuniga (cont.) | |
 | Wed **13th** morning | [*Basics of scientific visualization with ParaView*][alex2] by Alex Razoumov | [*MATLAB*][mathworks] by Mathworks <sup>fixed</sup> | [*Optimizing Python functions in C++*][dmitri] by Dmitri Rozmanov |
 | Wed **13th** afternoon | [*Large-scale remote visualization with ParaView*][alex3] by Alex Razoumov | [*MATLAB*][mathworks] by Mathworks (cont.) <sup>fixed</sup> | [*HPC and deep learning labs in Microsoft Azure Cloud*][azure] <sup>fixed</sup> |

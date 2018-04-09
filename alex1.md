@@ -31,4 +31,8 @@ on any Unix-like operating system, with hardware support from laptops to large H
 
 **Prerequisites**: None
 
-**Setup**: Cedar reservation with 4 nodes * 3 cores/node per attendee.
+**Setup**:
+- *Cluster reservation*: 4 nodes * 3 cores/node per attendee
+- *Cluster space*:
+- *Cluster software*:
+- *Laptop software*:

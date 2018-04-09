@@ -42,3 +42,9 @@ More advanced animation, scripting and remote visualization will be covered in a
 from http://www.paraview.org/download. No prior visualization experience is required. We will provide
 sample data and codes for many interactive hands-on exercises, and you can bring your dataset if you
 would like to visualize it with ParaView.
+
+**Setup**:
+- *Cluster reservation*:
+- *Cluster space*:
+- *Cluster software*:
+- *Laptop software*: ParaView client
