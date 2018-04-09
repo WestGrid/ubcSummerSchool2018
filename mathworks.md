@@ -25,3 +25,9 @@ Introduction to MATLAB.
 **Level**: beginner (morning) and intermediate (afternoon)
 
 **Prerequisites**: 
+
+**Setup**:
+- *Cluster reservation*:
+- *Cluster space*:
+- *Cluster software*:
+- *Laptop software*:

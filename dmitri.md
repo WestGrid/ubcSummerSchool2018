@@ -20,7 +20,11 @@ How to speed up your Python code with C++.
 
 **Prerequisites**: Some familiarity with C++?
 
-**Setup**: Cedar reservation?
+**Setup**:
+- *Cluster reservation*:
+- *Cluster space*:
+- *Cluster software*:
+- *Laptop software*:
 
 <!-- SciNet has a page on virtualenv -->
 <!-- https://wiki.scinet.utoronto.ca/wiki/index.php/User_Python_virtualenv -->

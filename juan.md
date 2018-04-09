@@ -42,5 +42,9 @@ and exercises, combining presentation of concepts with hands-on experiences.
 **Prerequisites**: Some programming background is required. In particular, basic knowledge of C or C++ is
 necessary to follow the examples and exercises.
 
-**Setup**: need a reservation on either Cedar or Graham: ideally 1 GPU per student (this way we can fit 4
-students per node on Cedar, only 2 per node on Graham)
+**Setup**:
+- *Cluster reservation*: ideally 1 GPU per student (this way we can fit 4 students per node on Cedar,
+  only 2 per node on Graham)
+- *Cluster space*:
+- *Cluster software*:
+- *Laptop software*:

@@ -20,4 +20,8 @@ Course description.
 
 **Prerequisites**: any?
 
-**Setup**: Software requirements? Cedar reservation? If so, how many cores/nodes req'd per user.
+**Setup**:
+- *Cluster reservation*:
+- *Cluster space*:
+- *Cluster software*:
+- *Laptop software*:

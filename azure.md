@@ -22,3 +22,9 @@ Hands-on labs.
 **Level**: beginner
 
 **Prerequisites**: none?
+
+**Setup**:
+- *Cluster reservation*:
+- *Cluster space*:
+- *Cluster software*:
+- *Laptop software*:
