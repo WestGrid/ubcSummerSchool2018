@@ -19,9 +19,9 @@ nav: true
 
 | date and time | GEOG 200 (100 seats) | GEOG 101 (60 seats) | GEOG 147 (60 seats) is an overflow room |
 | ------------- | --------------- | ----------------- | ----------------- |
-| Mon **11th** morning | [*Introduction to HPC*]({{ site.baseurl }}/roman.html) by Roman Baranowski | [*Bioinformatics pipeline on Cedar*]({{ site.baseurl }}/phillip.html) by Phillip Richmond | |
+| Mon **11th** morning | [*Introduction to HPC*]({{ site.baseurl }}/roman.html) by Roman Baranowski | | |
 | Mon **11th** afternoon | [*Introduction to HPC*]({{ site.baseurl }}/roman.html) by Roman Baranowski (cont.) | [*Databases*]({{ site.baseurl }}/wolfgang.html) by Wolfgang Richter | |
-| Tue **12th** morning | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex1.html) by Alex Razoumov | [*Introduction to GPU programming with CUDA*]({{ site.baseurl }}/juan.html) by Juan Zuniga | |
+| Tue **12th** morning | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex1.html) by Alex Razoumov | [*Introduction to GPU programming with CUDA*]({{ site.baseurl }}/juan.html) by Juan Zuniga | [*Next Generation Sequencing on Cedar*]({{ site.baseurl }}/phillip.html) by Phillip Richmond <sup>fixed</sup> |
 | Tue **12th** afternoon | [*Parallel programming in Chapel*]({{ site.baseurl }}/alex1.html) by Alex Razoumov (cont.) | [*Introduction to GPU programming with CUDA*]({{ site.baseurl }}/juan.html) by Juan Zuniga (cont.) | |
 | Wed **13th** morning | [*Basics of scientific visualization with ParaView*]({{ site.baseurl }}/alex2.html) by Alex Razoumov | [*MATLAB*]({{ site.baseurl }}/mathworks.html) by Mathworks <sup>fixed</sup> | [*Optimizing Python functions in C++*]({{ site.baseurl }}/dmitri.html) by Dmitri Rozmanov |
 | Wed **13th** afternoon | [*Large-scale remote visualization with ParaView*]({{ site.baseurl}}/alex3.html) by Alex Razoumov | [*MATLAB*]({{ site.baseurl }}/mathworks.html) by Mathworks (cont.) <sup>fixed</sup> | [*HPC and deep learning labs in Microsoft Azure Cloud*]({{ site.baseurl }}/azure.html) <sup>fixed</sup> |
@@ -35,8 +35,7 @@ nav: true
 &nbsp;
 
 **Notes**:
-- removed Martin Krzywinski (GSC) to free the spot for Juan's GPU course, might put him back to replace
-  alex2.md; Martin Krzywinski is unsure, has until March to think it over (but not the design course)
+- Apr-06 Martin Krzywinski is still unsure, will try to answer soon (but not the design course)
 - Matt McInnis from IBM is unreachable; Roman is working with other IBM contacts
 - meeting with Amazon (AWS) on Thursday, they really want to participate in our summer school
 - perhaps, one 3-hr session on both Amazon AWS and Microsoft Azure
