@@ -49,8 +49,6 @@ nav: true
 **Notes**:
 - Apr-06 Martin Krzywinski is still unsure, will try to answer soon (but not the design course)
 - Matt McInnis from IBM is unreachable; Roman is working with other IBM contacts
-- meeting with Amazon (AWS) on Thursday, they really want to participate in our summer school
-- perhaps, one 3-hr session on both Amazon AWS and Microsoft Azure
 - CC cloud: Brent will provide materials, Venkat will teach
 - so far no one to teach Julia language
 

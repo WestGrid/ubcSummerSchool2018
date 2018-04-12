@@ -8,7 +8,7 @@ nav: false
 
 **Title**: Bioinformatics and data graphics in R for microbiologists
 
-Course description.
+ggplot/phyloseq microbiome data visualization in R
 
 **Target audience**: bioinformaticians/microbiologists?
 
