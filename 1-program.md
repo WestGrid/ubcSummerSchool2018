@@ -8,7 +8,7 @@ nav: true
 
 - Monday June-11 to Thursday June-14
 - website http://bit.ly/ubcwg18
-- repository https://github.com/WestGrid/ubcSummerSchool2018.git
+<!-- - repository https://github.com/WestGrid/ubcSummerSchool2018.git -->
 - announcement and registration opening around May-01
   - in the announcement and the registration page mention the remote broadcast
   - have "interested" checkboxes for individual courses
