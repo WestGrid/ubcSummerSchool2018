@@ -10,6 +10,7 @@ nav: true
   - announcement/registration live on Apr-26 or could even be before then if ready
 - will need to make this page *presentable* by Apr-25
   - everybody please check the website for errors, corrections, etc.
+- anything else we need to move around in the program?
 - Alex: coordinating recording / broadcasting (including to the overflow room) with Garth
 - Cedar reservations: collecting data from instructors
   - GPU reservation will be difficult, but let's wait for the registration numbers first
