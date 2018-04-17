@@ -7,14 +7,19 @@ nav: true
 ## Apr-17 @2pm meeting
 
 - registration page is up (for now password-protected)
-- corrdinating recording / broadcasting (including to the overflow room) with Garth
+  - announcement/registration live on Apr-26 or could even be before then if ready
+- will need to make this page *presentable* by Apr-25
+  - everybody please check the website for errors, corrections, etc.
+- Alex: coordinating recording / broadcasting (including to the overflow room) with Garth
 - Cedar reservations: collecting data from instructors
   - GPU reservation will be difficult, but let's wait for the registration numbers first
 - 50 guest accounts?
-- will need to make this page *presentable* by Apr-25, announcement and registration live on Apr-26
-  (Jana's schedule) or could even be before then if ready
 - do we need a poster?
-
+- need details for matlab.md, dmitri.md, azure.md, phil.md, venkat.md, amazon.md
+- career panel preparation (Brent, finance, etc)
+  - Roman: create a page / provide some description
+- CC cloud: Brent will provide materials, Venkat will teach
+  
 ## Courses (tentative program)
 
 - <sup>fixed</sup> means the instructor is available only on this date/time (cannot be moved)
@@ -48,35 +53,23 @@ nav: true
 
 &nbsp;
 
-**Notes**:
-- Apr-06 Martin Krzywinski is still unsure, will try to answer soon (but not the design course)
-- Matt McInnis from IBM is unreachable; Roman is working with other IBM contacts
-- CC cloud: Brent will provide materials, Venkat will teach
-- so far no one to teach Julia language
-
 ## Action items
 
 **Garth:**
 * confirm with Todd: planning to be in Vancouver for the entire summer school (flying back on Thursday
   night)
-* now looking into either using a splitter to get the video signal, or recording with a camera (OBS is no
-  longer an option)
+* now looking into either using a splitter to get the video signal, or recording with a camera; OBS is no
+  longer an option
 * will talk to his contacts in AV support at UBC Vancouver about borrowing the equipment
 * will make sure there is a proper LAN connection (not relying on wireless for broadcast)
 
 **Alex:**
 * ONGOING work with Mathworks
-  - we are really interested in using the TAH UBC license
-  - work with the instructors: need intro, need to show running/scaling on Cedar, make sure everyone can
-    access MATLAB
 
 **Jamie:**
-* Martin Krzywinski has to decide until the end of March
-* Apr-06 ECOSCOPE confirmed date/time; Jamie asked for syllabus details by the end of the next week (Apr-13)
-* CC bioinformatics team: volunteers to teach Galaxy/GenAP?
+- Apr-06 Martin Krzywinski is still unsure, will try to answer soon (but not the design course)
 
 **Roman:**
 * Apr-03 Gino DiLabio: interested, but mostly likely will travel, will let us know in a couple of days
 * Apr-03 waiting to hear from Ian Allison (PIMS) on someone from his team to teach Jupyter/Python; Ian
   himself will be in Europe; could be Patrick Walls?
-* Mar-20 contacting people about participating in the career panel (Brent, finance, etc)
