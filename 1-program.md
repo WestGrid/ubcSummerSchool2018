@@ -9,7 +9,7 @@ nav: true
 - registration page is up (for now password-protected)
   - announcement/registration live on Apr-26 or could even be before then if ready
 - will need to make this page *presentable* by Apr-25
-  - everybody please check the website for errors, corrections, etc.
+  - everybody please check the website http://bit.ly/ubcwg18 for errors, corrections, etc.
 - anything else we need to move around in the program?
 - Alex: coordinating recording / broadcasting (including to the overflow room) with Garth
 - Cedar reservations: collecting data from instructors
@@ -20,7 +20,8 @@ nav: true
 - career panel preparation (Brent, finance, etc)
   - Roman: create a page / provide some description
 - CC cloud: Brent will provide materials, Venkat will teach
-  
+- Alex won't be available in two weeks
+
 ## Courses (tentative program)
 
 - <sup>fixed</sup> means the instructor is available only on this date/time (cannot be moved)
