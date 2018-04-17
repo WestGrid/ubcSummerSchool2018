@@ -11,8 +11,9 @@ nav: true
 - Cedar reservations: collecting data from instructors
   - GPU reservation will be difficult, but let's wait for the registration numbers first
 - 50 guest accounts?
-- will need to make this page *presentable* by Apr-25, announcement and registration opening around or
-  just before May-01 (Jana's schedule)
+- will need to make this page *presentable* by Apr-25, announcement and registration live on Apr-26
+  (Jana's schedule) or could even be before then if ready
+- do we need a poster?
 
 ## Courses (tentative program)
 
