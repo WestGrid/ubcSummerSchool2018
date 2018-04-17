@@ -4,14 +4,15 @@ title: Program
 nav: true
 ---
 
-# 2018 notes
+## Apr-17 @2pm meeting
 
-- Monday June-11 to Thursday June-14
-- website http://bit.ly/ubcwg18
-<!-- - repository https://github.com/WestGrid/ubcSummerSchool2018.git -->
-- announcement and registration opening around May-01
-  - in the announcement and the registration page mention the remote broadcast
-  - have "interested" checkboxes for individual courses
+- registration page is up (for now password-protected)
+- corrdinating recording / broadcasting (including to the overflow room) with Garth
+- Cedar reservations: collecting data from instructors
+  - GPU reservation will be difficult, but let's wait for the registration numbers first
+- 50 guest accounts?
+- will need to make this page *presentable* by Apr-25, announcement and registration opening around or
+  just before May-01 (Jana's schedule)
 
 ## Courses (tentative program)
 
@@ -51,12 +52,6 @@ nav: true
 - Matt McInnis from IBM is unreachable; Roman is working with other IBM contacts
 - CC cloud: Brent will provide materials, Venkat will teach
 - so far no one to teach Julia language
-
-## Next face-to-face Apr-17 @2pm
-
-- recording / broadcasting (including to the overflow room) with Garth
-- Cedar reservations: how many nodes? GPU nodes? figure out the grid for the week
-- guest accounts
 
 ## Action items
 
