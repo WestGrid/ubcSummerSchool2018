@@ -38,7 +38,7 @@ nav: true
 | Wed **13th** morning | [*Basics of scientific visualization with ParaView*][alex2] by Alex Razoumov | [*MATLAB*][mathworks] by Mathworks <sup>fixed</sup> | [*Optimizing Python functions in C++*][dmitri] by Dmitri Rozmanov |
 | Wed **13th** afternoon | [*Large-scale remote visualization with ParaView*][alex3] by Alex Razoumov | [*MATLAB*][mathworks] by Mathworks (cont.) <sup>fixed</sup> | [*HPC and deep learning labs in Microsoft Azure Cloud*][azure] <sup>fixed</sup> |
 | Thu **14th** morning | *Parallelization in Python 3 and large datasets* by Phil Austin <sup>fixed</sup> | *CC cloud* by Venkat Mahadevan | |
-| Thu **14th** afternoon | *Amazon AWS* | [*Bioinfo and data graphics in R for microbiologists*][kim] by Kim Dill-McFarland <sup>fixed</sup> | |
+| Thu **14th** afternoon | *Amazon AWS* | [*Microbiome data manipulation and visualization in R*][kim] by Kim Dill-McFarland <sup>fixed</sup> | |
 {:.mbtablestyle}
 
 | Thu **14th** 4pm-5pm | open panel on post-PhD career options |

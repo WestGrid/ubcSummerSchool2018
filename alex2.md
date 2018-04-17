@@ -47,4 +47,4 @@ would like to visualize it with ParaView.
 - *Cluster reservation*:
 - *Cluster space*:
 - *Cluster software*:
-- *Laptop software*: ParaView client
+- *Laptop software*: ParaView installed from https://www.paraview.org

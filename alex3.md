@@ -36,4 +36,5 @@ hands-on exercises, and you can bring your dataset if you would like to visualiz
 - *Cluster reservation*: 200 cores
 - *Cluster space*:
 - *Cluster software*:
-- *Laptop software*: ParaView client
+- *Laptop software*: ParaView 5.3 (that specific version to match the cluster version) installed from
+  https://www.paraview.org
