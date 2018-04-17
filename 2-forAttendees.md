@@ -10,11 +10,16 @@ Morning sessions will be 9:00am-12:00pm. Afternoon sessions will be 1:00pm-4:00p
 place in the UBC Geography Building ([see the exact location](http://bit.ly/2GXwB71)), in rooms GEOG 200,
 GEOG 101 and GEOG 147 (also an overflow room).
 
-This page will continue to be updated as details are confirmed for room assignments, session times and
+These pages will continue to be updated as details are confirmed for room assignments, session times and
 detailed course information.
 
-**Important**: All attendees must bring their laptops and power cords (if your battery does not last
-all day). Before the start of the summer school all eligible attendees must obtain:
+**Important**: All attendees must bring their laptops and power cords (if your battery does not last all
+day). Don't forget to check details and prerequisites for each course, including software requirements
+for your laptop under **Setup** > *Laptop software* -- please install the required software before coming
+to class.
+
+Before the start of the summer school **all eligible attendees must obtain**:
+
 1. Their Compute Canada acounts. You can find detailed instructions
    [here](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account). Please
    note that the same Compute Canada account will let you log in to both Cedar and Graham clusters.
