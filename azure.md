@@ -8,20 +8,27 @@ nav: false
 
 **Title**: HPC and deep learning labs in Microsoft Azure Cloud
 
-Hands-on labs.
-
 **Target audience**: general
 
 **Course plan**:
-- HPC Lab (90 mins): running jobs on an MPI Infiniband cluster in Azure Cloud
-- Deep Learning Lab (90 mins): primer on various neural nets, walking through a specific deep learning
-  model, running it in Azure Cloud
+- High-value research computing scenarios and strategies
+- Considerations of cloud vs. on-premise computing
+  - CPU, Storage, Networking
+  - Data movement & governance considerations
+- National Oceanic and Atmospheric Administration (NOAA) case study
+- MPI InfiniBand cluster in Azure Cloud
+- **HPC Hands-On Lab**: running jobs on the cluster
+- **Deep Learning Lab**: introduction to machine learning, deep learning & AI
+  - use cases (brain segmentation, text extraction, etc)
+  - common deep-learning architectures:  CNN, RNN, LSTM
+  - common frameworks (TensorFlow, CNTK, Caffe, etc)
+- Summary & wrap up
 
 **Duration**: 3 hours
 
 **Level**: beginner
 
-**Prerequisites**: none?
+**Prerequisites**:
 
 **Setup**:
 - *Cluster reservation*:
