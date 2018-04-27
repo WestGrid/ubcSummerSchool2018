@@ -18,14 +18,14 @@ nav: true
 
 | date and time | GEOG 200 (100 seats) | GEOG 101 (60 seats) | GEOG 147 (60 seats) is an overflow room |
 | ------------- | --------------- | ----------------- | ----------------- |
-| Mon **11th** morning | [*Introduction to HPC*][roman] by Roman Baranowski | | |
-| Mon **11th** afternoon | [*Introduction to HPC*][roman] by Roman Baranowski (cont.) | [*Databases*][wolfgang] by Wolfgang Richter | |
-| Tue **12th** morning | [*Parallel programming in Chapel*][alex1] by Alex Razoumov | [*Introduction to GPU programming with CUDA*][juan] by Juan Zuniga | [*Next-Gen Sequencing on Cedar*][phillip] by Phillip Richmond |
-| Tue **12th** afternoon | [*Parallel programming in Chapel*][alex1] by Alex Razoumov (cont.) | [*Introduction to GPU programming with CUDA*][juan] by Juan Zuniga (cont.) | |
-| Wed **13th** morning | [*Basics of scientific visualization with ParaView*][alex2] by Alex Razoumov | [*MATLAB*][mathworks] by Mathworks | [*Optimizing Python functions in C++*][dmitri] by Dmitri Rozmanov |
-| Wed **13th** afternoon | [*Large-scale remote visualization with ParaView*][alex3] by Alex Razoumov | [*MATLAB*][mathworks] by Mathworks (cont.) | [*HPC and deep learning labs in Microsoft Azure Cloud*][azure] |
+| Mon **11th** morning | [*Introduction to HPC*][roman] by Roman Baranowski ![beginner](beginner.png) | | |
+| Mon **11th** afternoon | [*Introduction to HPC*][roman] by Roman Baranowski (cont.) ![beginner](beginner.png) | [*Databases*][wolfgang] by Wolfgang Richter ![beginner](beginner.png) | |
+| Tue **12th** morning | [*Parallel programming in Chapel*][alex1] by Alex Razoumov ![beginner](beginner.png) | [*Introduction to GPU programming with CUDA*][juan] by Juan Zuniga ![intermediate](intermediate.png) | [*Next-Gen Sequencing on Cedar*][phillip] by Phillip Richmond ![beginner](beginner.png) ![intermediate](intermediate.png) |
+| Tue **12th** afternoon | [*Parallel programming in Chapel*][alex1] by Alex Razoumov (cont.) ![beginner](beginner.png) | [*Introduction to GPU programming with CUDA*][juan] by Juan Zuniga (cont.) ![intermediate](intermediate.png) | |
+| Wed **13th** morning | [*Basics of scientific visualization with ParaView*][alex2] by Alex Razoumov ![beginner](beginner.png) | [*MATLAB*][mathworks] by Mathworks ![beginner](beginner.png) | [*Optimizing Python functions in C++*][dmitri] by Dmitri Rozmanov |
+| Wed **13th** afternoon | [*Large-scale remote visualization with ParaView*][alex3] by Alex Razoumov ![intermediate](intermediate.png) | [*MATLAB*][mathworks] by Mathworks (cont.) ![intermediate](intermediate.png) | [*HPC and deep learning labs in Microsoft Azure Cloud*][azure] ![beginner](beginner.png) |
 | Thu **14th** morning | *Parallelization in Python 3 and large datasets* by Phil Austin | *CC cloud* by Venkat Mahadevan | |
-| Thu **14th** afternoon | *Amazon AWS* | [*Microbiome data manipulation and visualization in R*][kim] by Kim Dill-McFarland | |
+| Thu **14th** afternoon | *Amazon AWS* | [*Microbiome data manipulation and visualization in R*][kim] by Kim Dill-McFarland ![beginner](beginner.png) | |
 {:.mbtablestyle}
 
 | Thu **14th** 4pm-5pm | open panel on post-PhD career options |
