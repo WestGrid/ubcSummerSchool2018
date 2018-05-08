@@ -15,6 +15,7 @@ nav: true
 [mathworks]: {{ site.baseurl }}/mathworks.html
 [azure]: {{ site.baseurl }}/azure.html
 [kim]: {{ site.baseurl }}/kim.html
+[venkat]: {{ site.baseurl }}/venkat.html
 [amazon]: {{ site.baseurl }}/amazon.html
 
 | date and time | GEOG 200 (100 seats) | GEOG 101 (60 seats) | GEOG 147 (60 seats) is an overflow room |
@@ -25,7 +26,7 @@ nav: true
 | Tue **12th** afternoon | [*Parallel programming in Chapel*][alex1] by Alex Razoumov (cont.) ![beginner](beginner.png) | [*Introduction to GPU programming with CUDA*][juan] by Juan Zuniga (cont.) ![intermediate](intermediate.png) | |
 | Wed **13th** morning | [*Basics of scientific visualization with ParaView*][alex2] by Alex Razoumov ![beginner](beginner.png) | [*MATLAB*][mathworks] by Mathworks ![beginner](beginner.png) | [*Optimizing Python functions in C++*][dmitri] by Dmitri Rozmanov |
 | Wed **13th** afternoon | [*Large-scale remote visualization with ParaView*][alex3] by Alex Razoumov ![intermediate](intermediate.png) | [*MATLAB*][mathworks] by Mathworks (cont.) ![intermediate](intermediate.png) | [*HPC and deep learning labs in Microsoft Azure Cloud*][azure] ![beginner](beginner.png) |
-| Thu **14th** morning | *Parallelization in Python 3 and large datasets* by Phil Austin | *CC cloud* by Venkat Mahadevan | |
+| Thu **14th** morning | *Parallelization in Python 3 and large datasets* by Phil Austin | [*Compute Canada cloud*][venkat] by Venkat Mahadevan ![beginner](beginner.png) | |
 | Thu **14th** afternoon | [*Amazon Web Services*][amazon] ![beginner](beginner.png) | [*Microbiome data manipulation and visualization in R*][kim] by Kim Dill-McFarland ![beginner](beginner.png) | |
 {:.mbtablestyle}
 

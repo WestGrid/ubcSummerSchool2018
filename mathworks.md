@@ -27,7 +27,7 @@ Introduction to MATLAB.
 **Prerequisites**: 
 
 **Setup**:
-- *Cluster reservation*:
+- *Cluster reservation*: 4 cores per participant
 - *Cluster space*:
 - *Cluster software*:
 - *Laptop software*:
