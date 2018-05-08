@@ -42,7 +42,7 @@ measure prerequisites.
 - *Cluster software*: BWA, samtools, GATK, htslib, bedtools, Picard, homer (homer is not installed
   currently, but if you give me a central location on Cedar for this analysis course then I can install
   it http://homer.ucsd.edu/homer/introduction/install.html).
-- *Laptop software*: IGV, and a way to mount Cedar from local machine. I personally use sshfs and OSX
-  Fuse and it works seamlessly, don't know what's best for PCs. If we don't mount, then another
-  alternative is to download data onto local machine via file transfer (either a client like FileZilla or
-  just command-line scp).
+- *Laptop software*: SSH client (built-in on Mac/Linux, on Windows MobaXTerm or PuTTY), IGV, and a way to
+  mount Cedar from local machine. I personally use sshfs and OSX Fuse and it works seamlessly, don't know
+  what's best for PCs. If we don't mount, then another alternative is to download data onto local machine
+  via file transfer (either a client like FileZilla or just command-line scp).

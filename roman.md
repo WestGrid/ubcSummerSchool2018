@@ -36,9 +36,7 @@ An introduction to high-performance computing for those without any HPC experien
 
 **Setup**:
 - *Cluster reservation*: 200 cores.
-- *Cluster space*:
-- *Cluster software*:
-- *Laptop software*:
+- *Laptop software*: SSH client (built-in on Mac/Linux, on Windows MobaXTerm or PuTTY)
 
 <!-- Alex for Megan's part: That’s great! Anything I can do to help with developing the materials for this -->
 <!-- course, please let me know. Especially using Globus and cloud sharing to transfer data to/from CC -->

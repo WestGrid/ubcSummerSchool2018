@@ -28,4 +28,5 @@ An introduction to the Compute Canada cloud platform for beginners.
 **Prerequisites**: Basic knowledge of Linux command line
 
 **Setup**:
-- *Laptop software*: SSH client (MobaXTerm or PuTTY), Web browser (Firefox or Chrome)
+- *Laptop software*: SSH client (built-in on Mac/Linux, on Windows MobaXTerm or PuTTY), Web browser
+  (Firefox or Chrome)

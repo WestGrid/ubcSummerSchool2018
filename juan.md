@@ -45,6 +45,4 @@ necessary to follow the examples and exercises.
 **Setup**:
 - *Cluster reservation*: ideally 1 GPU per student (this way we can fit 4 students per node on Cedar,
   only 2 per node on Graham)
-- *Cluster space*:
-- *Cluster software*:
-- *Laptop software*:
+- *Laptop software*: SSH client (built-in on Mac/Linux, on Windows MobaXTerm or PuTTY)

@@ -38,7 +38,6 @@ on their personal laptops prior to the session.
 
 **Setup**:
 - *Cluster reservation*: 4-8 cores/user for the first hour only (1-2pm)
-- *Cluster space*: none beyond the standard user allocation
 - *Cluster software*: R version 3.4 or newer
 - *Laptop software*: [R](http://cran.stat.sfu.ca) and
   [RStudio](https://www.rstudio.com/products/rstudio/download/#download)

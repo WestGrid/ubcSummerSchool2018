@@ -33,6 +33,4 @@ on any Unix-like operating system, with hardware support from laptops to large H
 
 **Setup**:
 - *Cluster reservation*: 4 nodes * 3 cores/node per attendee
-- *Cluster space*:
-- *Cluster software*:
-- *Laptop software*:
+- *Laptop software*: SSH client (built-in on Mac/Linux, on Windows MobaXTerm or PuTTY)

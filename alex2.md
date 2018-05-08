@@ -44,7 +44,4 @@ sample data and codes for many interactive hands-on exercises, and you can bring
 would like to visualize it with ParaView.
 
 **Setup**:
-- *Cluster reservation*:
-- *Cluster space*:
-- *Cluster software*:
 - *Laptop software*: ParaView installed from https://www.paraview.org
