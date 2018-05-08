@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include figure.html file="decomposition.png" alt="intro image here" width="85%" %}
+{% include figure.html file="wgLogoHighRes.jpg" alt="intro image here" width="85%" %}
 
 # Research computing summer school
 
