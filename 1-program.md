@@ -17,6 +17,7 @@ nav: true
 [kim]: {{ site.baseurl }}/kim.html
 [venkat]: {{ site.baseurl }}/venkat.html
 [amazon]: {{ site.baseurl }}/amazon.html
+[panel]: {{ site.baseurl }}/panel.html
 
 | date and time | GEOG 200 (100 seats) | GEOG 101 (60 seats) | GEOG 147 (60 seats) is an overflow room |
 | ------------- | --------------- | ----------------- | ----------------- |
@@ -30,7 +31,7 @@ nav: true
 | Thu **14th** afternoon | [*Amazon Web Services*][amazon] ![beginner](beginner.png) | [*Microbiome data manipulation and visualization in R*][kim] by Kim Dill-McFarland ![beginner](beginner.png) | |
 {:.mbtablestyle}
 
-| Thu **14th** 4pm-5pm | open panel on post-PhD career options |
+| Thu **14th** 4pm-5pm | [open panel on post-PhD career options][panel] |
 {:.mbtablestyle}
 
 &nbsp;
