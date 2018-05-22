@@ -6,6 +6,7 @@ nav: true
 
 [roman]: {{ site.baseurl }}/roman.html
 [phillip]: {{ site.baseurl }}/phillip.html
+[phil]: {{ site.baseurl }}/phil.html
 [wolfgang]: {{ site.baseurl }}/wolfgang.html
 [juan]: {{ site.baseurl }}/juan.html
 [alex1]: {{ site.baseurl }}/alex1.html
@@ -28,7 +29,7 @@ nav: true
 | Tue **12th** afternoon | [*Parallel programming in Chapel*][alex1] by Alex Razoumov (cont.) ![beginner](beginner.png) | [*Introduction to GPU programming with CUDA*][juan] by Juan Zuniga (cont.) ![intermediate](intermediate.png) | |
 | Wed **13th** morning | [*Basics of scientific visualization with ParaView*][alex2] by Alex Razoumov ![beginner](beginner.png) | [*Data Analysis with MATLAB*][mathworks1] by MathWorks ![beginner](beginner.png) | [*Speeding up Python code with C/C++*][dmitri] by Dmitri Rozmanov ![beginner](beginner.png) ![intermediate](intermediate.png) |
 | Wed **13th** afternoon | [*Large-scale remote visualization with ParaView*][alex3] by Alex Razoumov ![intermediate](intermediate.png) | [*MATLAB Parallel Computing Hands-on Workshop*][mathworks2] by MathWorks (cont.) ![intermediate](intermediate.png) | [*HPC and deep learning labs in Microsoft Azure Cloud*][azure] ![beginner](beginner.png) |
-| Thu **14th** morning | *Parallelization in Python 3 and large datasets* by Phil Austin | [*Compute Canada cloud*][venkat] by Venkat Mahadevan ![beginner](beginner.png) | |
+| Thu **14th** morning | [*Parallelization in Python 3 and large datasets*][phil] by Phil Austin ![intermediate](intermediate.png) | [*Compute Canada cloud*][venkat] by Venkat Mahadevan ![beginner](beginner.png) | |
 | Thu **14th** afternoon | [*Amazon Web Services*][amazon] ![beginner](beginner.png) | [*Microbiome data manipulation and visualization in R*][kim] by Kim Dill-McFarland ![beginner](beginner.png) | |
 {:.mbtablestyle}
 
