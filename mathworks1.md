@@ -4,7 +4,7 @@ title: Data Analysis with MATLAB
 nav: false
 ---
 
-**Instructor**: MathWorks engineers
+**Instructor**: Mehernaz Savai
 
 **Title**: Data Analysis with MATLAB
 
@@ -25,13 +25,12 @@ training.
   - Tackling different data formats (timestamps, text, image, big data, etc.)
 - Cleaning, exploring, visualizing, and combining complex multivariate data sets
 - Interfacing with different tools and languages (Python, Excel, Java, C, etc.)
-- Application-specific examples
+- Application-specific examples (will be chosen based on participants' interest)
   - Machine Learning
   - Deep Learning
   - Signal Processing
   - Optimization
   - Image Processing
-- Topics chosen based on participants' interest
 
 **Duration**: 3 hours
 
