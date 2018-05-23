@@ -46,7 +46,7 @@ Introduction to databases on Cedar.
 **Prerequisites**:
 
 **Background information**: The database services in WestGrid are now offered through high-performance
-database MySQL and Postgres servers on Cedar. Here is the
+database MySQL and Postgres servers on Cedar and Graham. Here is the
 [official documentation](https://docs.computecanada.ca/wiki/Database_servers).
 
 **Setup**:
