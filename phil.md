@@ -8,7 +8,7 @@ nav: false
 
 **Title**: Parallelization in Python 3 with large datasets
 
-The objective is to learn how to write shared-memory Python programs that make use of multiple cores on a
+The objective is to learn how to write parallel Python programs that make use of multiple cores on a
 single node. The tutorial will introduce several python modules that schedule operations and manage data
 to simplify multiprocessing with Python.
 
@@ -34,11 +34,16 @@ to simplify multiprocessing with Python.
 **Level**: intermediate
 
 **Prerequisites**: Some familiarity with Jupyter notebooks, Python and numpy at the level of Jake
-Vanderplas'
-[Whirlwind tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython/blob/f40b435dea823ad5f094d48d158cc8b8f282e9d5/Index.ipynb).
+Vanderplas' [Whirlwind tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython).
 
 
 **Setup**:
-- *Cluster reservation*: 
-- *Laptop software*: [x2go client](http://wiki.x2go.org/doku.php/download:start), .bashrc that adds
-  python 3.6.1 and g++ 5.2 to the PATH
+
+- All the examples in the tutorial should work on Windows, MacOS or Linux laptops that have Miniconda 3.6 installed.
+
+- *Python installation*: https://clouds.eos.ubc.ca/~phil/courses/parallel_python/00_intro.html
+
+- *Course notes*: https://clouds.eos.ubc.ca/~phil/courses/parallel_python/index.html
+
+- *Course notebooks*:  (under construction) download from https://github.com/phaustin/parallel_python_course
+
