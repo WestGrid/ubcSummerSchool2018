@@ -41,9 +41,10 @@ Vanderplas' [Whirlwind tour of Python](https://github.com/jakevdp/WhirlwindTourO
 
 - All the examples in the tutorial should work on Windows, MacOS or Linux laptops that have Miniconda 3.6 installed.
 
-- *Python installation*: https://clouds.eos.ubc.ca/~phil/courses/parallel_python/00_intro.html
+- *Python installation*: [https://clouds.eos.ubc.ca/~phil/courses/parallel_python/00_intro.html](https://clouds.eos.ubc.ca/~phil/courses/parallel_python/00_intro.html)
 
-- *Course notes*: https://clouds.eos.ubc.ca/~phil/courses/parallel_python/index.html
+- *Course notes*: [https://clouds.eos.ubc.ca/~phil/courses/parallel_python/index.html](https://clouds.eos.ubc.ca/~phil/courses/parallel_python/index.html)
 
-- *Course notebooks*:  (under construction) download from https://github.com/phaustin/parallel_python_course
+- *Course notebooks*:  (under construction) download from [https://github.com/phaustin/parallel_python_course](https://github.com/phaustin/parallel_python_course)
+
 
