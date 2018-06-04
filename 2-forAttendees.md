@@ -22,10 +22,15 @@ Before the start of the summer school **all eligible attendees must obtain**:
 
 1. Their Compute Canada acounts. You can find detailed instructions
    [here](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account). Please
-   note that the same Compute Canada account will let you log in to both Cedar and Graham clusters.
-  - if you are not eligible to apply for a Compute Canada account (for non-academic attendees), we will
-    provide a guest account for you
+   note that the same Compute Canada account will let you log in to both Cedar and Graham clusters. If
+   you are not eligible to apply for a Compute Canada account (especially non-academic attendees), we
+   will provide a guest account for you
 2. Their Eduroam accounts through their home institutions. You will need online access to complete the
    hands-on exercises, log in to remote systems, view documentation, etc., so please make sure you can
    sign in to Eduroam. If not sure how to obtain it, please contact the local IT department at your
    institution.
+
+Some (but not all) of the sessions will be recorded and broadcast. You can watch these presentations at
+<a href="http://www.westgrid.ca/live" target="_blank">our live link</a> and <a href="https://www.sli.do"
+target="_blank">ask questions here</a> (enter code **M519**). All recorded presentations will be posted
+online after the end of the summer school.
