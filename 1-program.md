@@ -21,6 +21,8 @@ nav: true
 [amazon]: {{ site.baseurl }}/amazon.html
 [panel]: {{ site.baseurl }}/panel.html
 
+Morning sessions will be **9:00am-12:00pm** and the afternoon sessions **1:00pm-4:00pm**, all Pacific time.
+
 | date and time | GEOG 200 (100 seats) | GEOG 101 (60 seats) | GEOG 147 (60 seats) is an overflow room |
 | ------------- | --------------- | ----------------- | ----------------- |
 | Mon **11th** morning | [*Introduction to HPC*][roman] by Roman Baranowski ![beginner](beginner.png) | | |
