@@ -28,6 +28,9 @@ If you would like to see specific microbiome data visualizations included in thi
 complete this [survey](https://ubc.ca1.qualtrics.com/jfe/form/SV_ahpf84tQtvMr1Bz) and we will do our best
 to incorporate or provide resources toward your goals.
 
+You can download <a href="https://github.com/EDUCE-UBC/workshops/tree/master/microbiome_summer_school"
+target="_blank">this session's materials from GitHub</a>.
+
 **Duration**: 3 hours
 
 **Level**: beginner
