@@ -6,9 +6,9 @@ nav: true
 
 # Instructions for attendees
 
-Morning sessions will be 9:00am-12:00pm. Afternoon sessions will be 1:00pm-4:00pm. All sessions will take
-place in the UBC Geography Building (<a href="http://bit.ly/2GXwB71" target="_blank">see the exact
-location</a>), in rooms GEOG 200, GEOG 101 and GEOG 147 (also an overflow room).
+Morning sessions will be 9:00am-12:00pm. Afternoon sessions will be 1:00pm-4:00pm. The sessions will take
+place in CHEM B150, PHRM3208, ALRD121, CEME1202 -- for details please see the [program]({{ site.baseurl
+}}/1-program.html).
 
 These pages will continue to be updated as details are confirmed for room assignments, session times and
 detailed course information.
