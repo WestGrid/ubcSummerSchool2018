@@ -21,8 +21,10 @@ nav: true
 [amazon]: {{ site.baseurl }}/amazon.html
 [panel]: {{ site.baseurl }}/panel.html
 
-**Important:** please note the new venue! Due to pending construction in GEOGRAPHY we moved to several
-other locations on campus.
+### Please note the new venue!
+
+**Important:** Due to an upcoming construction project in Geography Building that coincides with our
+summer school, we decided to move the location to four new rooms.
 
 | date and time | CHEM B150 | PHRM 3208 | ALRD 121 | CEME 1202 |
 | ------------- | --------------- | ----------------- | ----------------- | ----------------- |

@@ -7,8 +7,8 @@ nav: true
 # Instructions for attendees
 
 Morning sessions will be 9:00am-12:00pm. Afternoon sessions will be 1:00pm-4:00pm. The sessions will take
-place in CHEM B150, PHRM3208, ALRD121, CEME1202 -- for details please see the [program]({{ site.baseurl
-}}/1-program.html).
+place in CHEM B150, PHRM 3208, ALRD 121, CEME 1202 -- for details please see the [program]({{
+site.baseurl }}/1-program.html).
 
 These pages will continue to be updated as details are confirmed for room assignments, session times and
 detailed course information.
