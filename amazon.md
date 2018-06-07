@@ -12,13 +12,18 @@ nav: false
 
 **Course plan**:
 
-- Brief intro/overview of AWS
-- AWS research case studies: bioinformatics/genetics, deep learning
-- AWS HPC capabilities
-- AWS Research Credit Program – what it is and how to apply for credits
-- Hands-on-Lab, will be one of these two:
-  - Analyze big data with Hadoop (40 min)
-  - Introduction to machine learning (35 min)
+- Intro to AWS
+- AWS advantages for HPC
+- Research and HPC examples on AWS
+- Core HPC Services
+- HPC Architectures and demo
+- Introduction to AI, Machine Learning & Deep Learning
+- Implementing Regression and Classification with Machine Learning
+- Deep Learning via APIs (Image Recognition)
+- Building your Deep Learning Neural Network (MXnet, Tensorflow, Spark)
+- Hands-on-Lab:
+  - Building a classification model
+  - Developing a distributed Training (TensorFlow Notebook)
 
 **Duration**: 3 hours
 
@@ -27,7 +32,5 @@ nav: false
 **Prerequisites**:
 
 **Setup**:
-- *Cluster reservation*:
-- *Cluster space*:
-- *Cluster software*:
-- *Laptop software*:
+- <a href="https://qwiklabs.com" target="_blank">QUIKLabs account</a>
+- <a href="http://aws.amazon.com" target="_blank">AWS account</a>
