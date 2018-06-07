@@ -4,7 +4,8 @@ title: MATLAB Parallel Computing Hands-On Workshop
 nav: false
 ---
 
-**Instructor**: MathWorks engineers
+**Instructor**: Sam Marshalik (MathWorks)
+**Helper**: Beth Bezaire (MathWorks)
 
 **Title**: MATLAB Parallel Computing Hands-On Workshop
 

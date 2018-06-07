@@ -4,7 +4,8 @@ title: Data Analysis with MATLAB
 nav: false
 ---
 
-**Instructor**: Mehernaz Savai
+**Instructor**: Mehernaz Savai (MathWorks)
+**Helper**: Beth Bezaire (MathWorks)
 
 **Title**: Data Analysis with MATLAB
 
