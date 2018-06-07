@@ -25,10 +25,12 @@ nav: true
 
 **Important:** Due to an upcoming construction project in Geography Building that coincides with our
 summer school, we decided to move the location to four new rooms: Chemistry B150, Pharmacy 3208, Allard
-121, Civil and Mechanical Engineering 1202.
+121, Civil and Mechanical Engineering 1202. We marked these buildings in blue on the map below, which can
+also be downloaded as a [PDF]({{ site.baseurl }}/HPC_Summer_School2018_Map.pdf). Recommended parkades are
+in yellow.
 
 Coffee/refreshments during the breaks at 10:30am and 2:30pm will be served near CHEM B150 on Monday and
-near PHRM3208 on Tuesday / Wednesday / Thursday.
+near PHRM 3208 on Tuesday / Wednesday / Thursday.
 
 | date and time | CHEM B150 | PHRM 3208 | ALRD 121 | CEME 1202 |
 | ------------- | --------------- | ----------------- | ----------------- | ----------------- |
@@ -44,3 +46,5 @@ near PHRM3208 on Tuesday / Wednesday / Thursday.
 {:.mbtablestyle}
 
 &nbsp;
+
+![map](HPC_Summer_School2018_Map.jpg)
