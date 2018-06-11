@@ -29,6 +29,9 @@ summer school, we decided to move the location to four new rooms: Chemistry B150
 also be downloaded as a [PDF]({{ site.baseurl }}/HPC_Summer_School2018_Map.pdf). Recommended parkades are
 in yellow.
 
+The ![broadcast](broadcast.png) icon indicates the courses that will be broadcast and recorded and posted
+online towards the end of June (and of course you can also attend them in person if you wish).
+
 Coffee/refreshments during the breaks at 10:30am and 2:30pm will be served near CHEM B150 on Monday and
 near PHRM 3208 on Tuesday / Wednesday / Thursday.
 
