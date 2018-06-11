@@ -10,6 +10,8 @@ nav: false
 
 Processing bioinformatics data on Cedar.
 
+The course slides are [here](https://docs.google.com/presentation/d/1O2BewoJgp-m3aEKYm8XnVlPJBEnBaWeO_UJ0yKhz8Lw).
+
 **Target audience**: bioinformaticians
 
 **Course plan**:
