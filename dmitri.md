@@ -20,6 +20,9 @@ Python may be too slow to be practical.
 In this course we will learn a way to create your own custom fast functions and call them from a native
 Python code to address such a situation.
 
+Please use <a href="http://bit.ly/UBCPythonCpp" target="_blank">this link</a> to access the shared Google
+Doc for this course.
+
 **Target audience**: general
 
 **Course plan**:
