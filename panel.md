@@ -5,4 +5,5 @@ nav: false
 ---
 
 Join us for a open panel discussion with various professionals from multiple fields in academia and
-industry. We will post more information here as we get confirmations from panel participants.
+industry. The panel will take place in Pharmacy Building in the same mezzanine where coffee and
+refreshments were served during the breaks.
