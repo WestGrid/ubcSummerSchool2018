@@ -10,6 +10,8 @@ nav: false
 
 An introduction to the Compute Canada cloud platform for beginners.
 
+You can download the slides at [this link](https://bit.ly/2MnDWN8).
+
 **Target audience**: general
 
 **Course plan**:
