@@ -31,6 +31,7 @@ nav: false
 
 **Prerequisites**:
 
-**Setup**:
+**Links**:
 - <a href="https://qwiklabs.com" target="_blank">QUIKLabs account</a>
 - <a href="http://aws.amazon.com" target="_blank">AWS account</a>
+- <a href="https://aws.amazon.com/research-credits" target="_blank">to apply for AWS research grants</a>
