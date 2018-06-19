@@ -4,7 +4,8 @@ title: Materials
 nav: true
 ---
 
-All course materials will be posted here before the end of June, as we get them from the instructors.
+All course materials will be posted here before the end of June, as we get them from the instructors. We
+also plan to post the videos from the recorded sessions once these are processed.
 
 ## Programming
 
