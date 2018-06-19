@@ -8,6 +8,9 @@ All course materials will be posted here before the end of June, as we get them 
 
 ## Programming
 
+- *Introduction to HPC* by Roman Baranowski: slides, sample datasets and scripts all in [one ZIP file]({{
+  site.baseurl }}/introhpc.zip)
+
 - *Speeding up Python code with C/C++* by Dmitri Rozmanov (University of Calgary): all files including
   the slides are in [this bzipped tar file]({{ site.baseurl }}/ubc-python-files.tar.bz2)
 
