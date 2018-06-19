@@ -12,8 +12,6 @@ nav: false
 
 Introduction to databases on Cedar.
 
-The course slides are [here]({{ site.baseurl }}/WestgridSummerSchool_db_20180611.pdf).
-
 **Target audience**: general
 
 **Course plan**:

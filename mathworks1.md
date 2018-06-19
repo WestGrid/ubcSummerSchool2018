@@ -16,9 +16,6 @@ In this session, a MathWorks Engineer will demonstrate data analysis features in
 of MATLAB and toolboxes, complete with code examples and resources that you can revisit following the
 training.
 
-Please [download the data files]({{ site.baseurl }}/DataAnalysiswithMATLAB.zip) for this session. This
-ZIP file also has links to resources that will be useful to you after the session.
-
 **Target audience**: anyone interested learning more about MATLAB
 
 **Course plan**:
