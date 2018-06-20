@@ -29,6 +29,10 @@ also plan to post the videos from the recorded sessions once these are processed
 
 - *Databases* by Wolfgang Richter (SFU): [the slides]({{ site.baseurl }}/WestgridSummerSchool_db_20180611.pdf)
 
+## Cloud
+
+- *Compute Canada cloud* by Venkat Mahadevan (UBC): [the slides]({{ site.baseurl }}/computeCanadaCloud.pdf)
+
 ## Visualization
 
 - *Basics of scientific visualization with ParaView* and *Large-scale remote visualization with ParaView*
