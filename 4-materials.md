@@ -9,7 +9,7 @@ also plan to post the videos from the recorded sessions once these are processed
 
 ## Programming
 
-- *Introduction to HPC* by Roman Baranowski: slides, sample datasets and scripts all in [one ZIP file]({{
+- *Introduction to HPC* by Roman Baranowski: slides and sample codes all in [one ZIP file]({{
   site.baseurl }}/introhpc.zip)
 
 - *Speeding up Python code with C/C++* by Dmitri Rozmanov (University of Calgary): all files including
