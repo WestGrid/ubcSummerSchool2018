@@ -4,8 +4,8 @@ title: Materials
 nav: true
 ---
 
-All course materials will be posted here before the end of June, as we get them from the instructors. We
-also plan to post the videos from the recorded sessions once these are processed.
+All course materials can be found below. If you have questions or would like more information on any of
+the courses, please contact [Alex Razoumov](mailto:alex.razoumov@westgrid.ca).
 
 ## Programming
 
@@ -41,6 +41,3 @@ also plan to post the videos from the recorded sessions once these are processed
 ## Bioinformatics
 
 - *Next-Gen Sequencing Read Mapping* by Phillip Richmond: [slides]({{ site.baseurl }}/shortReadMapping.pdf)
-
-If you have questions or would like more information on any of the courses, please contact
-[Alex Razoumov](mailto:alex.razoumov@westgrid.ca).
